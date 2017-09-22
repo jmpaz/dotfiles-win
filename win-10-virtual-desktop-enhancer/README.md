@@ -1,0 +1,2 @@
+# [Virtual Desktop Enhancer](https://github.com/sdias/win-10-virtual-desktop-enhancer)
+This AutoHotKey script really improves on Windows 10's virtual desktops. Pairs with the CUE profile's function layer for easy switching.

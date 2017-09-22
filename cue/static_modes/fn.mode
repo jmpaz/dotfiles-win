@@ -1,0 +1,1308 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ExportedMode>
+ <mode version="6" cookie="93">
+  <deviceModelName>CGK65 RGB</deviceModelName>
+  <name>fn</name>
+  <buttonGroups>
+   <ButtonGroup version="1">
+    <Name>Switches</Name>
+    <Note></Note>
+    <Buttons>
+     <Button>LeftArrow</Button>
+     <Button>End</Button>
+     <Button>Insert</Button>
+     <Button>Delete</Button>
+     <Button>RightArrow</Button>
+     <Button>PageDown</Button>
+     <Button>PageUp</Button>
+     <Button>Home</Button>
+    </Buttons>
+    <InPredefinedState>false</InPredefinedState>
+   </ButtonGroup>
+   <ButtonGroup version="1">
+    <Name>Hotkeys</Name>
+    <Note></Note>
+    <Buttons>
+     <Button>BracketLeft</Button>
+     <Button>BracketRight</Button>
+    </Buttons>
+    <InPredefinedState>false</InPredefinedState>
+   </ButtonGroup>
+   <ButtonGroup version="1">
+    <Name>Media</Name>
+    <Note></Note>
+    <Buttons>
+     <Button>MinusAndUnderscore</Button>
+     <Button>EqualsAndPlus</Button>
+     <Button>0</Button>
+     <Button>F10</Button>
+     <Button>F11</Button>
+     <Button>F12</Button>
+    </Buttons>
+    <InPredefinedState>false</InPredefinedState>
+   </ButtonGroup>
+   <ButtonGroup version="1">
+    <Name>Devices</Name>
+    <Note></Note>
+    <Buttons>
+     <Button>ScrollLock</Button>
+     <Button>PrintScreen</Button>
+     <Button>PauseBreak</Button>
+    </Buttons>
+    <InPredefinedState>false</InPredefinedState>
+   </ButtonGroup>
+  </buttonGroups>
+  <id>{ce04bffc-f4a5-4e9b-8737-917e116b8ec0}</id>
+  <note>Function layer accessed by fn key from any mode
+
+Press down to enter fnvanilla, which is a totally unmodified mode allowing access to remapped keys (insert/del, caps/win lock etc) without switching modes completely.</note>
+  <script>{00000000-0000-0000-0000-000000000000}</script>
+  <skipped>0</skipped>
+  <currentPerformanceIndex>0</currentPerformanceIndex>
+  <performances>
+   <performance version="1" type="keyboard">
+    <brightnessLevelIndex>3</brightnessLevelIndex>
+    <winKey></winKey>
+   </performance>
+  </performances>
+  <clearedKeys>
+   <key>E</key>
+  </clearedKeys>
+  <assigments>
+   <assigment action="{2fee6c05-a1f4-41fc-b292-38d09a5f95e4}" key="BracketLeft"/>
+   <assigment action="{cbaf69fe-69d3-49c9-83f0-88e1753317b0}" key="F11"/>
+   <assigment action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}" key="RightCtrl"/>
+   <assigment action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}" key="M"/>
+   <assigment action="{862bb968-47ed-498e-a28a-8947970cf2c7}" key="WinLock"/>
+   <assigment action="{63af9d9a-ab09-4456-841a-0a5d89c90647}" key="F12"/>
+   <assigment action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}" key="NonUsBackslash"/>
+   <assigment action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}" key="Q"/>
+   <assigment action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}" key="Lang1"/>
+   <assigment action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}" key="SemicolonAndColon"/>
+   <assigment action="{4be4d86f-9f3f-49a6-b463-bcffb7a93013}" key="0"/>
+   <assigment action="{415b1535-ed45-42bf-b39c-f520a310ae0a}" key="BracketRight"/>
+   <assigment action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}" key="LeftCtrl"/>
+   <assigment action="{db125977-043a-4c91-b10a-3c27c72f26a7}" key="Insert"/>
+   <assigment action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}" key="V"/>
+   <assigment action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}" key="T"/>
+   <assigment action="{72c36603-cfde-4005-a45f-c3220a79525b}" key="Fn"/>
+   <assigment action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}" key="Application"/>
+   <assigment action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}" key="P"/>
+   <assigment action="{24391033-8a07-44c4-a9a6-ce50c4a92d84}" key="F10"/>
+   <assigment action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}" key="RightShift"/>
+   <assigment action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}" key="F3"/>
+   <assigment action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}" key="International1"/>
+   <assigment action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}" key="LeftShift"/>
+   <assigment action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}" key="Tab"/>
+   <assigment action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}" key="Space"/>
+   <assigment action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}" key="G"/>
+   <assigment action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}" key="5"/>
+   <assigment action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}" key="S"/>
+   <assigment action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}" key="2"/>
+   <assigment action="{13229c6e-a47b-496b-b31c-6784f48ab4e3}" key="DownArrow"/>
+   <assigment action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}" key="N"/>
+   <assigment action="{9077090a-391c-49eb-a2db-ce81773ae725}" key="RightArrow"/>
+   <assigment action="{1d001c9f-f6f9-444e-91cc-0566fd281388}" key="Brightness"/>
+   <assigment action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}" key="C"/>
+   <assigment action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}" key="R"/>
+   <assigment action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}" key="L"/>
+   <assigment action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}" key="9"/>
+   <assigment action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}" key="VolumeDown"/>
+   <assigment action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}" key="F2"/>
+   <assigment action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}" key="Enter"/>
+   <assigment action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}" key="SlashAndQuestionMark"/>
+   <assigment action="{9a3cb671-f0b3-48bd-8452-70a04d0b0fa1}" key="PauseBreak"/>
+   <assigment action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}" key="F"/>
+   <assigment action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}" key="International4"/>
+   <assigment action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}" key="4"/>
+   <assigment action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}" key="O"/>
+   <assigment action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}" key="F9"/>
+   <assigment action="{af0f9c5e-8774-4b57-85fd-f27604129174}" key="PageDown"/>
+   <assigment action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}" key="F6"/>
+   <assigment action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}" key="Backspace"/>
+   <assigment action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}" key="ApostropheAndDoubleQuote"/>
+   <assigment action="{9c915036-5dc1-45ab-b4c7-0931f25a05f9}" key="MinusAndUnderscore"/>
+   <assigment action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}" key="Lang2"/>
+   <assigment action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}" key="K"/>
+   <assigment action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}" key="8"/>
+   <assigment action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}" key="A"/>
+   <assigment action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}" key="1"/>
+   <assigment action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}" key="VolumeUp"/>
+   <assigment action="{788a7bfc-76b4-4583-b884-2a19c3e64976}" key="LeftArrow"/>
+   <assigment action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}" key="PeriodAndBiggerThan"/>
+   <assigment action="{305c8c36-173d-48d7-8437-dfdb1ae94979}" key="ScrollLock"/>
+   <assigment action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}" key="X"/>
+   <assigment action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}" key="International5"/>
+   <assigment action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}" key="RightAlt"/>
+   <assigment action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}" key="I"/>
+   <assigment action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}" key="F8"/>
+   <assigment action="{132a64ed-5609-47eb-ba9b-984f1f443ac8}" key="End"/>
+   <assigment action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}" key="F1"/>
+   <assigment action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}" key="NonUsTilde"/>
+   <assigment action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}" key="LeftAlt"/>
+   <assigment action="{bd41959f-df6d-4176-b323-6902134de420}" key="PageUp"/>
+   <assigment action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}" key="D"/>
+   <assigment action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}" key="3"/>
+   <assigment action="{db347699-f404-4655-b0db-abc96db65ea8}" key="CapsLock"/>
+   <assigment action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}" key="GraveAccentAndTilde"/>
+   <assigment action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}" key="UpArrow"/>
+   <assigment action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}" key="F5"/>
+   <assigment action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}" key="International3"/>
+   <assigment action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}" key="Z"/>
+   <assigment action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}" key="W"/>
+   <assigment action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}" key="International2"/>
+   <assigment action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}" key="J"/>
+   <assigment action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}" key="7"/>
+   <assigment action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}" key="Escape"/>
+   <assigment action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}" key="Backslash"/>
+   <assigment action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}" key="CommaAndLessThan"/>
+   <assigment action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}" key="Mute"/>
+   <assigment action="{b4fd8972-2e61-48d0-b5cf-fe0af2345f42}" key="PrintScreen"/>
+   <assigment action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}" key="B"/>
+   <assigment action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}" key="Y"/>
+   <assigment action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}" key="U"/>
+   <assigment action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}" key="F7"/>
+   <assigment action="{2748ca8c-34c7-433c-ac96-692fcb58e634}" key="Delete"/>
+   <assigment action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}" key="F4"/>
+   <assigment action="{a3abf05b-9b9e-4ddf-ba82-8b718a2e2f3c}" key="EqualsAndPlus"/>
+   <assigment action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}" key="LeftGui"/>
+   <assigment action="{7051e507-fe5d-4e31-88bf-f01f1e3fdff0}" key="Home"/>
+   <assigment action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}" key="H"/>
+   <assigment action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}" key="6"/>
+  </assigments>
+  <fgLightAssignments>
+   <fgLightAssignment fgLightAssignmentKey="Brightness" fgLightAssignmentValue="{3777801e-5b75-409d-9a82-fe2092a7299c}">
+    <ExecutionHints>
+     <StartOnPress>false</StartOnPress>
+     <StartWithMode>true</StartWithMode>
+     <StopOnPress>false</StopOnPress>
+     <StopOnRelease>false</StopOnRelease>
+    </ExecutionHints>
+   </fgLightAssignment>
+  </fgLightAssignments>
+  <fgBasicLightAssignments>
+   <fgLightAssignment fgLightAssignmentKey="Brightness" fgLightAssignmentValue="{3777801e-5b75-409d-9a82-fe2092a7299c}">
+    <ExecutionHints>
+     <StartOnPress>false</StartOnPress>
+     <StartWithMode>true</StartWithMode>
+     <StopOnPress>false</StopOnPress>
+     <StopOnRelease>false</StopOnRelease>
+    </ExecutionHints>
+   </fgLightAssignment>
+   <fgLightAssignment fgLightAssignmentKey="WinLock" fgLightAssignmentValue="{502f64ec-fd23-4e1c-a632-0cf0bf7ad4be}">
+    <ExecutionHints>
+     <StartOnPress>false</StartOnPress>
+     <StartWithMode>true</StartWithMode>
+     <StopOnPress>false</StopOnPress>
+     <StopOnRelease>false</StopOnRelease>
+    </ExecutionHints>
+   </fgLightAssignment>
+  </fgBasicLightAssignments>
+  <lightBackgrounds>
+   <groupBgLights>
+    <lightBackground color="#000000" groupName="Switches"/>
+    <lightBackground color="#ffb92b" groupName="Hotkeys"/>
+    <lightBackground color="#ffffff" groupName="Media"/>
+    <lightBackground color="#ff5031" groupName="Devices"/>
+   </groupBgLights>
+   <keyBgLights>
+    <lightBackground color="#ffffff" key="VolumeUp"/>
+    <lightBackground color="#ffd331" key="Brightness"/>
+    <lightBackground color="#ffffff" key="VolumeDown"/>
+    <lightBackground color="#ffffff" key="WinLock"/>
+    <lightBackground color="#ab7200" key="BracketLeft"/>
+    <lightBackground color="#ffffff" key="DownArrow"/>
+    <lightBackground color="#ffffff" key="Mute"/>
+    <lightBackground color="#ab7200" key="BracketRight"/>
+   </keyBgLights>
+  </lightBackgrounds>
+  <basicLightBackgrounds>
+   <groupBgLights/>
+   <keyBgLights>
+    <lightBackground color="#aa0000" key="F10"/>
+    <lightBackground color="#aa0000" key="F12"/>
+    <lightBackground color="#aa0000" key="F11"/>
+   </keyBgLights>
+  </basicLightBackgrounds>
+  <disabledLightings/>
+  <groupsData>
+   <groupData groupName="Switches">
+    <groupLightingId>{edd9fc3d-92b6-4729-8d73-415477898250}</groupLightingId>
+    <ExecutionHints>
+     <StartOnPress>false</StartOnPress>
+     <StartWithMode>true</StartWithMode>
+     <StopOnPress>false</StopOnPress>
+     <StopOnRelease>false</StopOnRelease>
+    </ExecutionHints>
+   </groupData>
+  </groupsData>
+  <basicLightingsParameters>
+   <parameters basicLightingEffect="6">
+    <speed>0</speed>
+    <color>0</color>
+    <direction>0</direction>
+    <duration>0</duration>
+    <selectedColor>#ff0000</selectedColor>
+    <alternatingColors>
+     <color order="1">#ff0000</color>
+     <color order="2">#0000ff</color>
+    </alternatingColors>
+    <eqaliserPattern>1</eqaliserPattern>
+    <frequencyVisualizerAnimation>1</frequencyVisualizerAnimation>
+   </parameters>
+   <parameters basicLightingEffect="23">
+    <speed>0</speed>
+    <color>3</color>
+    <direction>3</direction>
+    <duration>0</duration>
+    <selectedColor>#ff0000</selectedColor>
+    <alternatingColors>
+     <color order="1">#51ff00</color>
+     <color order="2">#ff3300</color>
+    </alternatingColors>
+    <eqaliserPattern>1</eqaliserPattern>
+    <frequencyVisualizerAnimation>1</frequencyVisualizerAnimation>
+   </parameters>
+   <parameters basicLightingEffect="22">
+    <speed>0</speed>
+    <color>3</color>
+    <direction>3</direction>
+    <duration>0</duration>
+    <selectedColor>#ff0000</selectedColor>
+    <alternatingColors>
+     <color order="1">#51ff00</color>
+     <color order="2">#ff3300</color>
+    </alternatingColors>
+    <eqaliserPattern>1</eqaliserPattern>
+    <frequencyVisualizerAnimation>1</frequencyVisualizerAnimation>
+   </parameters>
+   <parameters basicLightingEffect="9">
+    <speed>2</speed>
+    <color>1</color>
+    <direction>0</direction>
+    <duration>0</duration>
+    <selectedColor>#ff0000</selectedColor>
+    <alternatingColors>
+     <color order="1">#ff0000</color>
+     <color order="2">#0000ff</color>
+    </alternatingColors>
+    <eqaliserPattern>1</eqaliserPattern>
+    <frequencyVisualizerAnimation>1</frequencyVisualizerAnimation>
+   </parameters>
+   <parameters basicLightingEffect="8">
+    <speed>2</speed>
+    <color>0</color>
+    <direction>0</direction>
+    <duration>0</duration>
+    <selectedColor>#ff0000</selectedColor>
+    <alternatingColors>
+     <color order="1">#ff0000</color>
+     <color order="2">#0000ff</color>
+    </alternatingColors>
+    <eqaliserPattern>1</eqaliserPattern>
+    <frequencyVisualizerAnimation>1</frequencyVisualizerAnimation>
+   </parameters>
+   <parameters basicLightingEffect="11">
+    <speed>2</speed>
+    <color>0</color>
+    <direction>2</direction>
+    <duration>0</duration>
+    <selectedColor>#ff0000</selectedColor>
+    <alternatingColors>
+     <color order="1">#ff0000</color>
+     <color order="2">#0000ff</color>
+    </alternatingColors>
+    <eqaliserPattern>1</eqaliserPattern>
+    <frequencyVisualizerAnimation>1</frequencyVisualizerAnimation>
+   </parameters>
+   <parameters basicLightingEffect="10">
+    <speed>2</speed>
+    <color>1</color>
+    <direction>0</direction>
+    <duration>0</duration>
+    <selectedColor>#ff0000</selectedColor>
+    <alternatingColors>
+     <color order="1">#ff0000</color>
+     <color order="2">#0000ff</color>
+    </alternatingColors>
+    <eqaliserPattern>1</eqaliserPattern>
+    <frequencyVisualizerAnimation>1</frequencyVisualizerAnimation>
+   </parameters>
+   <parameters basicLightingEffect="1">
+    <speed>2</speed>
+    <color>1</color>
+    <direction>0</direction>
+    <duration>0</duration>
+    <selectedColor>#ff0000</selectedColor>
+    <alternatingColors>
+     <color order="1">#ff0000</color>
+     <color order="2">#0000ff</color>
+    </alternatingColors>
+    <eqaliserPattern>1</eqaliserPattern>
+    <frequencyVisualizerAnimation>1</frequencyVisualizerAnimation>
+   </parameters>
+   <parameters basicLightingEffect="0">
+    <speed>2</speed>
+    <color>0</color>
+    <direction>3</direction>
+    <duration>0</duration>
+    <selectedColor>#ff0000</selectedColor>
+    <alternatingColors>
+     <color order="1">#ff0000</color>
+     <color order="2">#0000ff</color>
+    </alternatingColors>
+    <eqaliserPattern>1</eqaliserPattern>
+    <frequencyVisualizerAnimation>1</frequencyVisualizerAnimation>
+   </parameters>
+   <parameters basicLightingEffect="3">
+    <speed>0</speed>
+    <color>1</color>
+    <direction>0</direction>
+    <duration>2</duration>
+    <selectedColor>#ff0000</selectedColor>
+    <alternatingColors>
+     <color order="1">#ff0000</color>
+     <color order="2">#0000ff</color>
+    </alternatingColors>
+    <eqaliserPattern>1</eqaliserPattern>
+    <frequencyVisualizerAnimation>1</frequencyVisualizerAnimation>
+   </parameters>
+   <parameters basicLightingEffect="2">
+    <speed>2</speed>
+    <color>1</color>
+    <direction>3</direction>
+    <duration>0</duration>
+    <selectedColor>#ff0000</selectedColor>
+    <alternatingColors>
+     <color order="1">#ff0000</color>
+     <color order="2">#0000ff</color>
+    </alternatingColors>
+    <eqaliserPattern>1</eqaliserPattern>
+    <frequencyVisualizerAnimation>1</frequencyVisualizerAnimation>
+   </parameters>
+   <parameters basicLightingEffect="5">
+    <speed>2</speed>
+    <color>1</color>
+    <direction>0</direction>
+    <duration>0</duration>
+    <selectedColor>#ff0000</selectedColor>
+    <alternatingColors>
+     <color order="1">#ff0000</color>
+     <color order="2">#0000ff</color>
+    </alternatingColors>
+    <eqaliserPattern>1</eqaliserPattern>
+    <frequencyVisualizerAnimation>1</frequencyVisualizerAnimation>
+   </parameters>
+   <parameters basicLightingEffect="4">
+    <speed>2</speed>
+    <color>1</color>
+    <direction>0</direction>
+    <duration>0</duration>
+    <selectedColor>#ff0000</selectedColor>
+    <alternatingColors>
+     <color order="1">#ff0000</color>
+     <color order="2">#0000ff</color>
+    </alternatingColors>
+    <eqaliserPattern>1</eqaliserPattern>
+    <frequencyVisualizerAnimation>1</frequencyVisualizerAnimation>
+   </parameters>
+   <parameters basicLightingEffect="21">
+    <speed>3</speed>
+    <color>0</color>
+    <direction>5</direction>
+    <duration>0</duration>
+    <selectedColor>#ff0000</selectedColor>
+    <alternatingColors>
+     <color order="1">#ff0000</color>
+     <color order="2">#0000ff</color>
+    </alternatingColors>
+    <eqaliserPattern>1</eqaliserPattern>
+    <frequencyVisualizerAnimation>1</frequencyVisualizerAnimation>
+   </parameters>
+   <parameters basicLightingEffect="7">
+    <speed>0</speed>
+    <color>2</color>
+    <direction>0</direction>
+    <duration>0</duration>
+    <selectedColor>#ff0000</selectedColor>
+    <alternatingColors>
+     <color order="1">#ff0000</color>
+     <color order="2">#0000ff</color>
+    </alternatingColors>
+    <eqaliserPattern>1</eqaliserPattern>
+    <frequencyVisualizerAnimation>1</frequencyVisualizerAnimation>
+   </parameters>
+  </basicLightingsParameters>
+  <currentLightingEffect>6</currentLightingEffect>
+  <isInAdvancedLightingMode>1</isInAdvancedLightingMode>
+  <lighting_zones>
+   <lighting_zone name="All" type="0">
+    <currentLightingEffect>6</currentLightingEffect>
+    <basicLightingsParameters>
+     <parameters basicLightingEffect="23">
+      <speed>0</speed>
+      <color>3</color>
+      <direction>3</direction>
+      <duration>0</duration>
+      <selectedColor>#ff0000</selectedColor>
+      <alternatingColors>
+       <color order="1">#51ff00</color>
+       <color order="2">#ff3300</color>
+      </alternatingColors>
+      <eqaliserPattern>1</eqaliserPattern>
+      <frequencyVisualizerAnimation>1</frequencyVisualizerAnimation>
+     </parameters>
+     <parameters basicLightingEffect="6">
+      <speed>0</speed>
+      <color>0</color>
+      <direction>0</direction>
+      <duration>0</duration>
+      <selectedColor>#ff0000</selectedColor>
+      <alternatingColors>
+       <color order="1">#ff0000</color>
+       <color order="2">#0000ff</color>
+      </alternatingColors>
+      <eqaliserPattern>1</eqaliserPattern>
+      <frequencyVisualizerAnimation>1</frequencyVisualizerAnimation>
+     </parameters>
+     <parameters basicLightingEffect="10">
+      <speed>2</speed>
+      <color>1</color>
+      <direction>0</direction>
+      <duration>0</duration>
+      <selectedColor>#ff0000</selectedColor>
+      <alternatingColors>
+       <color order="1">#ff0000</color>
+       <color order="2">#0000ff</color>
+      </alternatingColors>
+      <eqaliserPattern>1</eqaliserPattern>
+      <frequencyVisualizerAnimation>1</frequencyVisualizerAnimation>
+     </parameters>
+     <parameters basicLightingEffect="0">
+      <speed>2</speed>
+      <color>0</color>
+      <direction>3</direction>
+      <duration>0</duration>
+      <selectedColor>#ff0000</selectedColor>
+      <alternatingColors>
+       <color order="1">#ff0000</color>
+       <color order="2">#0000ff</color>
+      </alternatingColors>
+      <eqaliserPattern>1</eqaliserPattern>
+      <frequencyVisualizerAnimation>1</frequencyVisualizerAnimation>
+     </parameters>
+     <parameters basicLightingEffect="3">
+      <speed>0</speed>
+      <color>1</color>
+      <direction>0</direction>
+      <duration>2</duration>
+      <selectedColor>#ff0000</selectedColor>
+      <alternatingColors>
+       <color order="1">#ff0000</color>
+       <color order="2">#0000ff</color>
+      </alternatingColors>
+      <eqaliserPattern>1</eqaliserPattern>
+      <frequencyVisualizerAnimation>1</frequencyVisualizerAnimation>
+     </parameters>
+     <parameters basicLightingEffect="2">
+      <speed>2</speed>
+      <color>1</color>
+      <direction>3</direction>
+      <duration>0</duration>
+      <selectedColor>#ff0000</selectedColor>
+      <alternatingColors>
+       <color order="1">#ff0000</color>
+       <color order="2">#0000ff</color>
+      </alternatingColors>
+      <eqaliserPattern>1</eqaliserPattern>
+      <frequencyVisualizerAnimation>1</frequencyVisualizerAnimation>
+     </parameters>
+     <parameters basicLightingEffect="21">
+      <speed>3</speed>
+      <color>0</color>
+      <direction>5</direction>
+      <duration>0</duration>
+      <selectedColor>#ff0000</selectedColor>
+      <alternatingColors>
+       <color order="1">#ff0000</color>
+       <color order="2">#0000ff</color>
+      </alternatingColors>
+      <eqaliserPattern>1</eqaliserPattern>
+      <frequencyVisualizerAnimation>1</frequencyVisualizerAnimation>
+     </parameters>
+    </basicLightingsParameters>
+   </lighting_zone>
+  </lighting_zones>
+ </mode>
+ <Lightings>
+  <Lighting version="3" Type="Wave">
+   <Id>{edd9fc3d-92b6-4729-8d73-415477898250}</Id>
+   <Name>Poison P1 (1)</Name>
+   <Note>#3 and #5 are blended</Note>
+   <Duration>3300</Duration>
+   <Date>2017-09-21</Date>
+   <IsHidden>false</IsHidden>
+   <IsPredefined>false</IsPredefined>
+   <Brightness>10</Brightness>
+   <ColorTransitionList version="1">
+    <Transition Alpha="255" TimeMark="0" Color="ff633a53"/>
+    <Transition Alpha="255" TimeMark="0.1528147" Color="ffff007f"/>
+    <Transition Alpha="255" TimeMark="0.367292" Color="ffb11d69"/>
+    <Transition Alpha="255" TimeMark="0.563003" Color="ff633a53"/>
+    <Transition Alpha="255" TimeMark="0.738606" Color="ffb11d69"/>
+    <Transition Alpha="255" TimeMark="0.914209" Color="ffff007f"/>
+    <Transition Alpha="255" TimeMark="1" Color="ff633a53"/>
+   </ColorTransitionList>
+   <Velocity>100</Velocity>
+   <TailLength>300</TailLength>
+   <RotationAngle>105</RotationAngle>
+   <IsDoublesided>true</IsDoublesided>
+   <WaveSpread>1</WaveSpread>
+  </Lighting>
+ </Lightings>
+ <Actions>
+  <Action version="7" Type="modeSwitch">
+   <Id>{862bb968-47ed-498e-a28a-8947970cf2c7}</Id>
+   <Name>Mode switching (14) (2) (1)</Name>
+   <Note></Note>
+   <Date>2017-08-26</Date>
+   <BindCounter>0</BindCounter>
+   <Visible>0</Visible>
+   <Predefined>0</Predefined>
+   <ExecutionHints>
+    <ExecEvent>press</ExecEvent>
+    <TerminateWhenStartedAgain>false</TerminateWhenStartedAgain>
+    <RestartWhenStartedAgain>false</RestartWhenStartedAgain>
+   </ExecutionHints>
+   <RepeatOptions version="1">
+    <Mode>0</Mode>
+    <DelayMode>0</DelayMode>
+    <AmountOfRepeats>1</AmountOfRepeats>
+    <Delay>0</Delay>
+    <RandomDelayFrom>0</RandomDelayFrom>
+    <RandomDelayTo>0</RandomDelayTo>
+   </RepeatOptions>
+   <ActionLighting>{00000000-0000-0000-0000-000000000000}</ActionLighting>
+   <SwitchingType>2</SwitchingType>
+   <DirectModeId>{00000000-0000-0000-0000-000000000000}</DirectModeId>
+   <OptionSelected>1</OptionSelected>
+   <MKeyName></MKeyName>
+  </Action>
+  <Action version="7" Type="run">
+   <Id>{9a3cb671-f0b3-48bd-8452-70a04d0b0fa1}</Id>
+   <Name>Rift</Name>
+   <Note></Note>
+   <Date>2017-09-20</Date>
+   <BindCounter>2</BindCounter>
+   <Visible>1</Visible>
+   <Predefined>0</Predefined>
+   <ExecutionHints>
+    <ExecEvent>press</ExecEvent>
+    <TerminateWhenStartedAgain>false</TerminateWhenStartedAgain>
+    <RestartWhenStartedAgain>false</RestartWhenStartedAgain>
+   </ExecutionHints>
+   <RepeatOptions version="1">
+    <Mode>0</Mode>
+    <DelayMode>0</DelayMode>
+    <AmountOfRepeats>1</AmountOfRepeats>
+    <Delay>0</Delay>
+    <RandomDelayFrom>0</RandomDelayFrom>
+    <RandomDelayTo>0</RandomDelayTo>
+   </RepeatOptions>
+   <ActionLighting>{00000000-0000-0000-0000-000000000000}</ActionLighting>
+   <Path>C:/Users/Josh/Documents/Tools/nircmd/shortcuts/rift.bat</Path>
+   <PredefinedCommand>4</PredefinedCommand>
+  </Action>
+  <Action version="7" Type="keyRemap">
+   <Id>{db347699-f404-4655-b0db-abc96db65ea8}</Id>
+   <Name>Caps Lock (2) (1)</Name>
+   <Note></Note>
+   <Date>2017-09-21</Date>
+   <BindCounter>0</BindCounter>
+   <Visible>0</Visible>
+   <Predefined>0</Predefined>
+   <ExecutionHints>
+    <ExecEvent>both</ExecEvent>
+    <TerminateWhenStartedAgain>false</TerminateWhenStartedAgain>
+    <RestartWhenStartedAgain>false</RestartWhenStartedAgain>
+   </ExecutionHints>
+   <RepeatOptions version="1">
+    <Mode>0</Mode>
+    <DelayMode>0</DelayMode>
+    <AmountOfRepeats>1</AmountOfRepeats>
+    <Delay>0</Delay>
+    <RandomDelayFrom>0</RandomDelayFrom>
+    <RandomDelayTo>0</RandomDelayTo>
+   </RepeatOptions>
+   <ActionLighting>{00000000-0000-0000-0000-000000000000}</ActionLighting>
+   <Key>CapsLock</Key>
+  </Action>
+  <Action version="7" Type="keyRemap">
+   <Id>{63af9d9a-ab09-4456-841a-0a5d89c90647}</Id>
+   <Name>Next Track (1) (1)</Name>
+   <Note></Note>
+   <Date>2017-09-20</Date>
+   <BindCounter>0</BindCounter>
+   <Visible>0</Visible>
+   <Predefined>0</Predefined>
+   <ExecutionHints>
+    <ExecEvent>both</ExecEvent>
+    <TerminateWhenStartedAgain>false</TerminateWhenStartedAgain>
+    <RestartWhenStartedAgain>false</RestartWhenStartedAgain>
+   </ExecutionHints>
+   <RepeatOptions version="1">
+    <Mode>0</Mode>
+    <DelayMode>0</DelayMode>
+    <AmountOfRepeats>1</AmountOfRepeats>
+    <Delay>0</Delay>
+    <RandomDelayFrom>0</RandomDelayFrom>
+    <RandomDelayTo>0</RandomDelayTo>
+   </RepeatOptions>
+   <ActionLighting>{00000000-0000-0000-0000-000000000000}</ActionLighting>
+   <Key>ScanNextTrack</Key>
+  </Action>
+  <Action version="7" Type="keyRemap">
+   <Id>{a3abf05b-9b9e-4ddf-ba82-8b718a2e2f3c}</Id>
+   <Name>Volume Up (1) (1)</Name>
+   <Note></Note>
+   <Date>2017-09-20</Date>
+   <BindCounter>0</BindCounter>
+   <Visible>0</Visible>
+   <Predefined>0</Predefined>
+   <ExecutionHints>
+    <ExecEvent>both</ExecEvent>
+    <TerminateWhenStartedAgain>false</TerminateWhenStartedAgain>
+    <RestartWhenStartedAgain>false</RestartWhenStartedAgain>
+   </ExecutionHints>
+   <RepeatOptions version="1">
+    <Mode>0</Mode>
+    <DelayMode>0</DelayMode>
+    <AmountOfRepeats>1</AmountOfRepeats>
+    <Delay>0</Delay>
+    <RandomDelayFrom>0</RandomDelayFrom>
+    <RandomDelayTo>0</RandomDelayTo>
+   </RepeatOptions>
+   <ActionLighting>{00000000-0000-0000-0000-000000000000}</ActionLighting>
+   <Key>VolumeUp</Key>
+  </Action>
+  <Action version="7" Type="macro">
+   <Id>{2748ca8c-34c7-433c-ac96-692fcb58e634}</Id>
+   <Name>Core</Name>
+   <Note>Ctrl+Win+1</Note>
+   <Date>2017-09-20</Date>
+   <BindCounter>4</BindCounter>
+   <Visible>1</Visible>
+   <Predefined>0</Predefined>
+   <ExecutionHints>
+    <ExecEvent>press</ExecEvent>
+    <TerminateWhenStartedAgain>false</TerminateWhenStartedAgain>
+    <RestartWhenStartedAgain>false</RestartWhenStartedAgain>
+   </ExecutionHints>
+   <RepeatOptions version="1">
+    <Mode>0</Mode>
+    <DelayMode>0</DelayMode>
+    <AmountOfRepeats>1</AmountOfRepeats>
+    <Delay>1</Delay>
+    <RandomDelayFrom>0</RandomDelayFrom>
+    <RandomDelayTo>0</RandomDelayTo>
+   </RepeatOptions>
+   <ActionLighting>{00000000-0000-0000-0000-000000000000}</ActionLighting>
+   <Macro>
+    <KeyboardEvent SubType="Press">
+     <Key>LeftGui</Key>
+    </KeyboardEvent>
+    <KeyboardEvent SubType="Press">
+     <Key>LeftCtrl</Key>
+    </KeyboardEvent>
+    <KeyboardEvent SubType="Press">
+     <Key>1</Key>
+    </KeyboardEvent>
+    <KeyboardEvent SubType="Release">
+     <Key>1</Key>
+    </KeyboardEvent>
+    <KeyboardEvent SubType="Release">
+     <Key>LeftCtrl</Key>
+    </KeyboardEvent>
+    <KeyboardEvent SubType="Release">
+     <Key>LeftGui</Key>
+    </KeyboardEvent>
+   </Macro>
+   <BreakLogic>executeUninterrupted</BreakLogic>
+  </Action>
+  <Action version="7" Type="modeSwitch">
+   <Id>{72c36603-cfde-4005-a45f-c3220a79525b}</Id>
+   <Name>Mode switching (40)</Name>
+   <Note></Note>
+   <Date>2017-09-21</Date>
+   <BindCounter>9</BindCounter>
+   <Visible>0</Visible>
+   <Predefined>0</Predefined>
+   <ExecutionHints>
+    <ExecEvent>press</ExecEvent>
+    <TerminateWhenStartedAgain>false</TerminateWhenStartedAgain>
+    <RestartWhenStartedAgain>false</RestartWhenStartedAgain>
+   </ExecutionHints>
+   <RepeatOptions version="1">
+    <Mode>1</Mode>
+    <DelayMode>0</DelayMode>
+    <AmountOfRepeats>1</AmountOfRepeats>
+    <Delay>0</Delay>
+    <RandomDelayFrom>0</RandomDelayFrom>
+    <RandomDelayTo>0</RandomDelayTo>
+   </RepeatOptions>
+   <ActionLighting>{00000000-0000-0000-0000-000000000000}</ActionLighting>
+   <SwitchingType>1</SwitchingType>
+   <DirectModeId>{ce04bffc-f4a5-4e9b-8737-917e116b8ec0}</DirectModeId>
+   <OptionSelected>1</OptionSelected>
+   <MKeyName></MKeyName>
+  </Action>
+  <Action version="7" Type="keyRemap">
+   <Id>{4be4d86f-9f3f-49a6-b463-bcffb7a93013}</Id>
+   <Name>Mute (1) (1)</Name>
+   <Note></Note>
+   <Date>2017-09-20</Date>
+   <BindCounter>0</BindCounter>
+   <Visible>0</Visible>
+   <Predefined>0</Predefined>
+   <ExecutionHints>
+    <ExecEvent>both</ExecEvent>
+    <TerminateWhenStartedAgain>false</TerminateWhenStartedAgain>
+    <RestartWhenStartedAgain>false</RestartWhenStartedAgain>
+   </ExecutionHints>
+   <RepeatOptions version="1">
+    <Mode>0</Mode>
+    <DelayMode>0</DelayMode>
+    <AmountOfRepeats>1</AmountOfRepeats>
+    <Delay>0</Delay>
+    <RandomDelayFrom>0</RandomDelayFrom>
+    <RandomDelayTo>0</RandomDelayTo>
+   </RepeatOptions>
+   <ActionLighting>{00000000-0000-0000-0000-000000000000}</ActionLighting>
+   <Key>Mute</Key>
+  </Action>
+  <Action version="7" Type="macro">
+   <Id>{7051e507-fe5d-4e31-88bf-f01f1e3fdff0}</Id>
+   <Name>Ctrl+Win+5</Name>
+   <Note></Note>
+   <Date>2017-09-20</Date>
+   <BindCounter>3</BindCounter>
+   <Visible>1</Visible>
+   <Predefined>0</Predefined>
+   <ExecutionHints>
+    <ExecEvent>press</ExecEvent>
+    <TerminateWhenStartedAgain>false</TerminateWhenStartedAgain>
+    <RestartWhenStartedAgain>false</RestartWhenStartedAgain>
+   </ExecutionHints>
+   <RepeatOptions version="1">
+    <Mode>0</Mode>
+    <DelayMode>0</DelayMode>
+    <AmountOfRepeats>1</AmountOfRepeats>
+    <Delay>1</Delay>
+    <RandomDelayFrom>0</RandomDelayFrom>
+    <RandomDelayTo>0</RandomDelayTo>
+   </RepeatOptions>
+   <ActionLighting>{00000000-0000-0000-0000-000000000000}</ActionLighting>
+   <Macro>
+    <KeyboardEvent SubType="Press">
+     <Key>LeftCtrl</Key>
+    </KeyboardEvent>
+    <KeyboardEvent SubType="Press">
+     <Key>LeftGui</Key>
+    </KeyboardEvent>
+    <KeyboardEvent SubType="Stroke">
+     <Key>5</Key>
+    </KeyboardEvent>
+    <KeyboardEvent SubType="Release">
+     <Key>LeftCtrl</Key>
+    </KeyboardEvent>
+    <KeyboardEvent SubType="Release">
+     <Key>LeftGui</Key>
+    </KeyboardEvent>
+   </Macro>
+   <BreakLogic>executeUninterrupted</BreakLogic>
+  </Action>
+  <Action version="7" Type="macro">
+   <Id>{788a7bfc-76b4-4583-b884-2a19c3e64976}</Id>
+   <Name>Ctrl+Left</Name>
+   <Note></Note>
+   <Date>2017-09-20</Date>
+   <BindCounter>2</BindCounter>
+   <Visible>1</Visible>
+   <Predefined>0</Predefined>
+   <ExecutionHints>
+    <ExecEvent>press</ExecEvent>
+    <TerminateWhenStartedAgain>false</TerminateWhenStartedAgain>
+    <RestartWhenStartedAgain>false</RestartWhenStartedAgain>
+   </ExecutionHints>
+   <RepeatOptions version="1">
+    <Mode>0</Mode>
+    <DelayMode>0</DelayMode>
+    <AmountOfRepeats>1</AmountOfRepeats>
+    <Delay>1</Delay>
+    <RandomDelayFrom>0</RandomDelayFrom>
+    <RandomDelayTo>0</RandomDelayTo>
+   </RepeatOptions>
+   <ActionLighting>{00000000-0000-0000-0000-000000000000}</ActionLighting>
+   <Macro>
+    <KeyboardEvent SubType="Press">
+     <Key>LeftCtrl</Key>
+    </KeyboardEvent>
+    <KeyboardEvent SubType="Press">
+     <Key>LeftGui</Key>
+    </KeyboardEvent>
+    <KeyboardEvent SubType="Press">
+     <Key>LeftArrow</Key>
+    </KeyboardEvent>
+    <KeyboardEvent SubType="Release">
+     <Key>LeftArrow</Key>
+    </KeyboardEvent>
+    <KeyboardEvent SubType="Release">
+     <Key>LeftGui</Key>
+    </KeyboardEvent>
+    <KeyboardEvent SubType="Release">
+     <Key>LeftCtrl</Key>
+    </KeyboardEvent>
+   </Macro>
+   <BreakLogic>executeUninterrupted</BreakLogic>
+  </Action>
+  <Action version="7" Type="keyRemap">
+   <Id>{9c915036-5dc1-45ab-b4c7-0931f25a05f9}</Id>
+   <Name>Volume Down (1) (1)</Name>
+   <Note></Note>
+   <Date>2017-09-20</Date>
+   <BindCounter>0</BindCounter>
+   <Visible>0</Visible>
+   <Predefined>0</Predefined>
+   <ExecutionHints>
+    <ExecEvent>both</ExecEvent>
+    <TerminateWhenStartedAgain>false</TerminateWhenStartedAgain>
+    <RestartWhenStartedAgain>false</RestartWhenStartedAgain>
+   </ExecutionHints>
+   <RepeatOptions version="1">
+    <Mode>0</Mode>
+    <DelayMode>0</DelayMode>
+    <AmountOfRepeats>1</AmountOfRepeats>
+    <Delay>0</Delay>
+    <RandomDelayFrom>0</RandomDelayFrom>
+    <RandomDelayTo>0</RandomDelayTo>
+   </RepeatOptions>
+   <ActionLighting>{00000000-0000-0000-0000-000000000000}</ActionLighting>
+   <Key>VolumeDown</Key>
+  </Action>
+  <Action version="7" Type="run">
+   <Id>{b4fd8972-2e61-48d0-b5cf-fe0af2345f42}</Id>
+   <Name>Speakers</Name>
+   <Note></Note>
+   <Date>2017-09-20</Date>
+   <BindCounter>3</BindCounter>
+   <Visible>1</Visible>
+   <Predefined>0</Predefined>
+   <ExecutionHints>
+    <ExecEvent>press</ExecEvent>
+    <TerminateWhenStartedAgain>false</TerminateWhenStartedAgain>
+    <RestartWhenStartedAgain>false</RestartWhenStartedAgain>
+   </ExecutionHints>
+   <RepeatOptions version="1">
+    <Mode>0</Mode>
+    <DelayMode>0</DelayMode>
+    <AmountOfRepeats>1</AmountOfRepeats>
+    <Delay>0</Delay>
+    <RandomDelayFrom>0</RandomDelayFrom>
+    <RandomDelayTo>0</RandomDelayTo>
+   </RepeatOptions>
+   <ActionLighting>{00000000-0000-0000-0000-000000000000}</ActionLighting>
+   <Path>C:/Users/Josh/Documents/Tools/nircmd/shortcuts/speakers.bat</Path>
+   <PredefinedCommand>4</PredefinedCommand>
+  </Action>
+  <Action version="7" Type="macro">
+   <Id>{415b1535-ed45-42bf-b39c-f520a310ae0a}</Id>
+   <Name>Ctrl+ Tab</Name>
+   <Note></Note>
+   <Date>2017-09-20</Date>
+   <BindCounter>3</BindCounter>
+   <Visible>1</Visible>
+   <Predefined>0</Predefined>
+   <ExecutionHints>
+    <ExecEvent>press</ExecEvent>
+    <TerminateWhenStartedAgain>false</TerminateWhenStartedAgain>
+    <RestartWhenStartedAgain>false</RestartWhenStartedAgain>
+   </ExecutionHints>
+   <RepeatOptions version="1">
+    <Mode>1</Mode>
+    <DelayMode>0</DelayMode>
+    <AmountOfRepeats>1</AmountOfRepeats>
+    <Delay>200</Delay>
+    <RandomDelayFrom>0</RandomDelayFrom>
+    <RandomDelayTo>0</RandomDelayTo>
+   </RepeatOptions>
+   <ActionLighting>{00000000-0000-0000-0000-000000000000}</ActionLighting>
+   <Macro>
+    <KeyboardEvent SubType="Press">
+     <Key>LeftCtrl</Key>
+    </KeyboardEvent>
+    <KeyboardEvent SubType="Press">
+     <Key>Tab</Key>
+    </KeyboardEvent>
+    <KeyboardEvent SubType="Release">
+     <Key>Tab</Key>
+    </KeyboardEvent>
+    <KeyboardEvent SubType="Release">
+     <Key>LeftCtrl</Key>
+    </KeyboardEvent>
+   </Macro>
+   <BreakLogic>executeUninterrupted</BreakLogic>
+  </Action>
+  <Action version="7" Type="macro">
+   <Id>{bd41959f-df6d-4176-b323-6902134de420}</Id>
+   <Name>Ctrl+Win+6</Name>
+   <Note></Note>
+   <Date>2017-09-20</Date>
+   <BindCounter>3</BindCounter>
+   <Visible>1</Visible>
+   <Predefined>0</Predefined>
+   <ExecutionHints>
+    <ExecEvent>press</ExecEvent>
+    <TerminateWhenStartedAgain>false</TerminateWhenStartedAgain>
+    <RestartWhenStartedAgain>false</RestartWhenStartedAgain>
+   </ExecutionHints>
+   <RepeatOptions version="1">
+    <Mode>0</Mode>
+    <DelayMode>0</DelayMode>
+    <AmountOfRepeats>1</AmountOfRepeats>
+    <Delay>1</Delay>
+    <RandomDelayFrom>0</RandomDelayFrom>
+    <RandomDelayTo>0</RandomDelayTo>
+   </RepeatOptions>
+   <ActionLighting>{00000000-0000-0000-0000-000000000000}</ActionLighting>
+   <Macro>
+    <KeyboardEvent SubType="Press">
+     <Key>LeftCtrl</Key>
+    </KeyboardEvent>
+    <KeyboardEvent SubType="Press">
+     <Key>LeftGui</Key>
+    </KeyboardEvent>
+    <KeyboardEvent SubType="Stroke">
+     <Key>6</Key>
+    </KeyboardEvent>
+    <KeyboardEvent SubType="Release">
+     <Key>LeftGui</Key>
+    </KeyboardEvent>
+    <KeyboardEvent SubType="Release">
+     <Key>LeftCtrl</Key>
+    </KeyboardEvent>
+   </Macro>
+   <BreakLogic>executeUninterrupted</BreakLogic>
+  </Action>
+  <Action version="7" Type="macro">
+   <Id>{af0f9c5e-8774-4b57-85fd-f27604129174}</Id>
+   <Name>VM</Name>
+   <Note>Ctrl+Win+5</Note>
+   <Date>2017-09-20</Date>
+   <BindCounter>5</BindCounter>
+   <Visible>1</Visible>
+   <Predefined>0</Predefined>
+   <ExecutionHints>
+    <ExecEvent>press</ExecEvent>
+    <TerminateWhenStartedAgain>false</TerminateWhenStartedAgain>
+    <RestartWhenStartedAgain>false</RestartWhenStartedAgain>
+   </ExecutionHints>
+   <RepeatOptions version="1">
+    <Mode>0</Mode>
+    <DelayMode>0</DelayMode>
+    <AmountOfRepeats>1</AmountOfRepeats>
+    <Delay>1</Delay>
+    <RandomDelayFrom>0</RandomDelayFrom>
+    <RandomDelayTo>0</RandomDelayTo>
+   </RepeatOptions>
+   <ActionLighting>{00000000-0000-0000-0000-000000000000}</ActionLighting>
+   <Macro>
+    <KeyboardEvent SubType="Press">
+     <Key>LeftCtrl</Key>
+    </KeyboardEvent>
+    <KeyboardEvent SubType="Press">
+     <Key>LeftGui</Key>
+    </KeyboardEvent>
+    <KeyboardEvent SubType="Stroke">
+     <Key>5</Key>
+    </KeyboardEvent>
+    <KeyboardEvent SubType="Release">
+     <Key>LeftGui</Key>
+    </KeyboardEvent>
+    <KeyboardEvent SubType="Release">
+     <Key>LeftCtrl</Key>
+    </KeyboardEvent>
+   </Macro>
+   <BreakLogic>executeUninterrupted</BreakLogic>
+  </Action>
+  <Action version="7" Type="macro">
+   <Id>{9077090a-391c-49eb-a2db-ce81773ae725}</Id>
+   <Name>Ctrl+Right</Name>
+   <Note></Note>
+   <Date>2017-09-20</Date>
+   <BindCounter>2</BindCounter>
+   <Visible>1</Visible>
+   <Predefined>0</Predefined>
+   <ExecutionHints>
+    <ExecEvent>press</ExecEvent>
+    <TerminateWhenStartedAgain>false</TerminateWhenStartedAgain>
+    <RestartWhenStartedAgain>false</RestartWhenStartedAgain>
+   </ExecutionHints>
+   <RepeatOptions version="1">
+    <Mode>0</Mode>
+    <DelayMode>0</DelayMode>
+    <AmountOfRepeats>1</AmountOfRepeats>
+    <Delay>1</Delay>
+    <RandomDelayFrom>0</RandomDelayFrom>
+    <RandomDelayTo>0</RandomDelayTo>
+   </RepeatOptions>
+   <ActionLighting>{00000000-0000-0000-0000-000000000000}</ActionLighting>
+   <Macro>
+    <KeyboardEvent SubType="Press">
+     <Key>LeftGui</Key>
+    </KeyboardEvent>
+    <KeyboardEvent SubType="Press">
+     <Key>LeftCtrl</Key>
+    </KeyboardEvent>
+    <KeyboardEvent SubType="Press">
+     <Key>RightArrow</Key>
+    </KeyboardEvent>
+    <KeyboardEvent SubType="Release">
+     <Key>RightArrow</Key>
+    </KeyboardEvent>
+    <KeyboardEvent SubType="Release">
+     <Key>LeftCtrl</Key>
+    </KeyboardEvent>
+    <KeyboardEvent SubType="Release">
+     <Key>LeftGui</Key>
+    </KeyboardEvent>
+   </Macro>
+   <BreakLogic>executeUninterrupted</BreakLogic>
+  </Action>
+  <Action version="7" Type="modeSwitch">
+   <Id>{13229c6e-a47b-496b-b31c-6784f48ab4e3}</Id>
+   <Name>Mode switching (37)</Name>
+   <Note></Note>
+   <Date>2017-09-21</Date>
+   <BindCounter>1</BindCounter>
+   <Visible>0</Visible>
+   <Predefined>0</Predefined>
+   <ExecutionHints>
+    <ExecEvent>press</ExecEvent>
+    <TerminateWhenStartedAgain>false</TerminateWhenStartedAgain>
+    <RestartWhenStartedAgain>false</RestartWhenStartedAgain>
+   </ExecutionHints>
+   <RepeatOptions version="1">
+    <Mode>0</Mode>
+    <DelayMode>0</DelayMode>
+    <AmountOfRepeats>1</AmountOfRepeats>
+    <Delay>0</Delay>
+    <RandomDelayFrom>0</RandomDelayFrom>
+    <RandomDelayTo>0</RandomDelayTo>
+   </RepeatOptions>
+   <ActionLighting>{00000000-0000-0000-0000-000000000000}</ActionLighting>
+   <SwitchingType>2</SwitchingType>
+   <DirectModeId>{00000000-0000-0000-0000-000000000000}</DirectModeId>
+   <OptionSelected>0</OptionSelected>
+   <MKeyName></MKeyName>
+  </Action>
+  <Action version="7" Type="keyRemap">
+   <Id>{24391033-8a07-44c4-a9a6-ce50c4a92d84}</Id>
+   <Name>Previous Track (1) (1)</Name>
+   <Note></Note>
+   <Date>2017-09-20</Date>
+   <BindCounter>0</BindCounter>
+   <Visible>0</Visible>
+   <Predefined>0</Predefined>
+   <ExecutionHints>
+    <ExecEvent>both</ExecEvent>
+    <TerminateWhenStartedAgain>false</TerminateWhenStartedAgain>
+    <RestartWhenStartedAgain>false</RestartWhenStartedAgain>
+   </ExecutionHints>
+   <RepeatOptions version="1">
+    <Mode>0</Mode>
+    <DelayMode>0</DelayMode>
+    <AmountOfRepeats>1</AmountOfRepeats>
+    <Delay>0</Delay>
+    <RandomDelayFrom>0</RandomDelayFrom>
+    <RandomDelayTo>0</RandomDelayTo>
+   </RepeatOptions>
+   <ActionLighting>{00000000-0000-0000-0000-000000000000}</ActionLighting>
+   <Key>ScanPreviousTrack</Key>
+  </Action>
+  <Action version="7" Type="macro">
+   <Id>{db125977-043a-4c91-b10a-3c27c72f26a7}</Id>
+   <Name>Apps</Name>
+   <Note>Ctrl+Win+7</Note>
+   <Date>2017-09-21</Date>
+   <BindCounter>7</BindCounter>
+   <Visible>1</Visible>
+   <Predefined>0</Predefined>
+   <ExecutionHints>
+    <ExecEvent>press</ExecEvent>
+    <TerminateWhenStartedAgain>false</TerminateWhenStartedAgain>
+    <RestartWhenStartedAgain>false</RestartWhenStartedAgain>
+   </ExecutionHints>
+   <RepeatOptions version="1">
+    <Mode>0</Mode>
+    <DelayMode>0</DelayMode>
+    <AmountOfRepeats>1</AmountOfRepeats>
+    <Delay>1</Delay>
+    <RandomDelayFrom>0</RandomDelayFrom>
+    <RandomDelayTo>0</RandomDelayTo>
+   </RepeatOptions>
+   <ActionLighting>{00000000-0000-0000-0000-000000000000}</ActionLighting>
+   <Macro>
+    <KeyboardEvent SubType="Press">
+     <Key>LeftCtrl</Key>
+    </KeyboardEvent>
+    <KeyboardEvent SubType="Press">
+     <Key>LeftGui</Key>
+    </KeyboardEvent>
+    <KeyboardEvent SubType="Stroke">
+     <Key>7</Key>
+    </KeyboardEvent>
+    <KeyboardEvent SubType="Release">
+     <Key>LeftGui</Key>
+    </KeyboardEvent>
+    <KeyboardEvent SubType="Release">
+     <Key>LeftCtrl</Key>
+    </KeyboardEvent>
+   </Macro>
+   <BreakLogic>executeUninterrupted</BreakLogic>
+  </Action>
+  <Action version="7" Type="macro">
+   <Id>{2fee6c05-a1f4-41fc-b292-38d09a5f95e4}</Id>
+   <Name>Ctrl+Shift+ Tab</Name>
+   <Note></Note>
+   <Date>2017-09-20</Date>
+   <BindCounter>3</BindCounter>
+   <Visible>1</Visible>
+   <Predefined>0</Predefined>
+   <ExecutionHints>
+    <ExecEvent>press</ExecEvent>
+    <TerminateWhenStartedAgain>false</TerminateWhenStartedAgain>
+    <RestartWhenStartedAgain>false</RestartWhenStartedAgain>
+   </ExecutionHints>
+   <RepeatOptions version="1">
+    <Mode>1</Mode>
+    <DelayMode>0</DelayMode>
+    <AmountOfRepeats>1</AmountOfRepeats>
+    <Delay>200</Delay>
+    <RandomDelayFrom>0</RandomDelayFrom>
+    <RandomDelayTo>0</RandomDelayTo>
+   </RepeatOptions>
+   <ActionLighting>{00000000-0000-0000-0000-000000000000}</ActionLighting>
+   <Macro>
+    <KeyboardEvent SubType="Press">
+     <Key>LeftCtrl</Key>
+    </KeyboardEvent>
+    <KeyboardEvent SubType="Press">
+     <Key>LeftShift</Key>
+    </KeyboardEvent>
+    <KeyboardEvent SubType="Press">
+     <Key>Tab</Key>
+    </KeyboardEvent>
+    <KeyboardEvent SubType="Release">
+     <Key>Tab</Key>
+    </KeyboardEvent>
+    <KeyboardEvent SubType="Release">
+     <Key>LeftShift</Key>
+    </KeyboardEvent>
+    <KeyboardEvent SubType="Release">
+     <Key>LeftCtrl</Key>
+    </KeyboardEvent>
+   </Macro>
+   <BreakLogic>executeUninterrupted</BreakLogic>
+  </Action>
+  <Action version="7" Type="keyRemap">
+   <Id>{cbaf69fe-69d3-49c9-83f0-88e1753317b0}</Id>
+   <Name>Play/Pause (1) (1)</Name>
+   <Note></Note>
+   <Date>2017-09-20</Date>
+   <BindCounter>0</BindCounter>
+   <Visible>0</Visible>
+   <Predefined>0</Predefined>
+   <ExecutionHints>
+    <ExecEvent>both</ExecEvent>
+    <TerminateWhenStartedAgain>false</TerminateWhenStartedAgain>
+    <RestartWhenStartedAgain>false</RestartWhenStartedAgain>
+   </ExecutionHints>
+   <RepeatOptions version="1">
+    <Mode>0</Mode>
+    <DelayMode>0</DelayMode>
+    <AmountOfRepeats>1</AmountOfRepeats>
+    <Delay>0</Delay>
+    <RandomDelayFrom>0</RandomDelayFrom>
+    <RandomDelayTo>0</RandomDelayTo>
+   </RepeatOptions>
+   <ActionLighting>{00000000-0000-0000-0000-000000000000}</ActionLighting>
+   <Key>PlayPause</Key>
+  </Action>
+  <Action version="7" Type="macro">
+   <Id>{132a64ed-5609-47eb-ba9b-984f1f443ac8}</Id>
+   <Name>Tasks</Name>
+   <Note>Ctrl+Win+3</Note>
+   <Date>2017-09-20</Date>
+   <BindCounter>5</BindCounter>
+   <Visible>1</Visible>
+   <Predefined>0</Predefined>
+   <ExecutionHints>
+    <ExecEvent>press</ExecEvent>
+    <TerminateWhenStartedAgain>false</TerminateWhenStartedAgain>
+    <RestartWhenStartedAgain>false</RestartWhenStartedAgain>
+   </ExecutionHints>
+   <RepeatOptions version="1">
+    <Mode>0</Mode>
+    <DelayMode>0</DelayMode>
+    <AmountOfRepeats>1</AmountOfRepeats>
+    <Delay>1</Delay>
+    <RandomDelayFrom>0</RandomDelayFrom>
+    <RandomDelayTo>0</RandomDelayTo>
+   </RepeatOptions>
+   <ActionLighting>{00000000-0000-0000-0000-000000000000}</ActionLighting>
+   <Macro>
+    <KeyboardEvent SubType="Press">
+     <Key>LeftCtrl</Key>
+    </KeyboardEvent>
+    <KeyboardEvent SubType="Press">
+     <Key>LeftGui</Key>
+    </KeyboardEvent>
+    <KeyboardEvent SubType="Stroke">
+     <Key>3</Key>
+    </KeyboardEvent>
+    <KeyboardEvent SubType="Release">
+     <Key>LeftGui</Key>
+    </KeyboardEvent>
+    <KeyboardEvent SubType="Release">
+     <Key>LeftCtrl</Key>
+    </KeyboardEvent>
+   </Macro>
+   <BreakLogic>executeUninterrupted</BreakLogic>
+  </Action>
+  <Action version="7" Type="run">
+   <Id>{305c8c36-173d-48d7-8437-dfdb1ae94979}</Id>
+   <Name>Headphones</Name>
+   <Note></Note>
+   <Date>2017-09-20</Date>
+   <BindCounter>3</BindCounter>
+   <Visible>1</Visible>
+   <Predefined>0</Predefined>
+   <ExecutionHints>
+    <ExecEvent>press</ExecEvent>
+    <TerminateWhenStartedAgain>false</TerminateWhenStartedAgain>
+    <RestartWhenStartedAgain>false</RestartWhenStartedAgain>
+   </ExecutionHints>
+   <RepeatOptions version="1">
+    <Mode>0</Mode>
+    <DelayMode>0</DelayMode>
+    <AmountOfRepeats>1</AmountOfRepeats>
+    <Delay>0</Delay>
+    <RandomDelayFrom>0</RandomDelayFrom>
+    <RandomDelayTo>0</RandomDelayTo>
+   </RepeatOptions>
+   <ActionLighting>{00000000-0000-0000-0000-000000000000}</ActionLighting>
+   <Path>C:/Users/Josh/Documents/Tools/nircmd/shortcuts/headphones.bat</Path>
+   <PredefinedCommand>4</PredefinedCommand>
+  </Action>
+ </Actions>
+</ExportedMode>
