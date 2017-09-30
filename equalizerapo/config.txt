@@ -1,4 +1,4 @@
 Device: Rift Headphones Rift Audio {64531f07-e35a-473f-b443-09019008c943}
-Preamp: -14.5 dB
+Preamp: -20 dB
 Device: Headphones Realtek High Definition Audio {771f41b4-8aee-4dfb-b156-6ad39046c31d}
-Preamp: 8 dB
+Preamp: 11 dB
