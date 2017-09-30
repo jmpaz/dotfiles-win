@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ExportedMode>
- <mode cookie="554" version="6">
+ <mode cookie="1108" version="6">
   <deviceModelName>CGK65 RGB</deviceModelName>
   <name>fn_vanilla</name>
   <buttonGroups/>
@@ -10,114 +10,114 @@
   <skipped>1</skipped>
   <currentPerformanceIndex>0</currentPerformanceIndex>
   <performances>
-   <performance type="keyboard" version="1">
+   <performance version="1" type="keyboard">
     <brightnessLevelIndex>3</brightnessLevelIndex>
     <winKey></winKey>
    </performance>
   </performances>
   <clearedKeys/>
   <assigments>
-   <assigment key="8" action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}"/>
-   <assigment key="International4" action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}"/>
-   <assigment key="O" action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}"/>
-   <assigment key="F9" action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}"/>
-   <assigment key="PageDown" action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}"/>
-   <assigment key="LeftAlt" action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}"/>
-   <assigment key="PageUp" action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}"/>
-   <assigment key="X" action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}"/>
-   <assigment key="E" action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}"/>
-   <assigment key="RightAlt" action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}"/>
-   <assigment key="F" action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}"/>
-   <assigment key="4" action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}"/>
-   <assigment key="F5" action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}"/>
-   <assigment key="VolumeUp" action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}"/>
-   <assigment key="International3" action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}"/>
-   <assigment key="PeriodAndBiggerThan" action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}"/>
-   <assigment key="ScrollLock" action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}"/>
-   <assigment key="ApostropheAndDoubleQuote" action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}"/>
-   <assigment key="MinusAndUnderscore" action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}"/>
-   <assigment key="Lang2" action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}"/>
-   <assigment key="CapsLock" action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}"/>
-   <assigment key="GraveAccentAndTilde" action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}"/>
-   <assigment key="UpArrow" action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}"/>
-   <assigment key="F1" action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}"/>
-   <assigment key="NonUsTilde" action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}"/>
-   <assigment key="B" action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}"/>
-   <assigment key="Y" action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}"/>
-   <assigment key="J" action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}"/>
-   <assigment key="International5" action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}"/>
-   <assigment key="7" action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}"/>
-   <assigment key="I" action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}"/>
-   <assigment key="F8" action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}"/>
-   <assigment key="End" action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}"/>
-   <assigment key="LeftGui" action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}"/>
-   <assigment key="Home" action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}"/>
-   <assigment key="Z" action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}"/>
-   <assigment key="W" action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}"/>
-   <assigment key="International2" action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}"/>
-   <assigment key="D" action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}"/>
-   <assigment key="3" action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}"/>
-   <assigment key="F4" action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}"/>
-   <assigment key="EqualsAndPlus" action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}"/>
-   <assigment key="CommaAndLessThan" action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}"/>
-   <assigment key="Mute" action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}"/>
-   <assigment key="PrintScreen" action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}"/>
-   <assigment key="SemicolonAndColon" action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}"/>
-   <assigment key="0" action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}"/>
-   <assigment key="BracketLeft" action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}"/>
-   <assigment key="F11" action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}"/>
-   <assigment key="RightCtrl" action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}"/>
-   <assigment key="Escape" action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}"/>
-   <assigment key="Backslash" action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}"/>
-   <assigment key="V" action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}"/>
-   <assigment key="T" action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}"/>
-   <assigment key="Application" action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}"/>
-   <assigment key="H" action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}"/>
-   <assigment key="6" action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}"/>
-   <assigment key="U" action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}"/>
-   <assigment key="F7" action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}"/>
-   <assigment key="Delete" action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}"/>
-   <assigment key="LeftCtrl" action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}"/>
-   <assigment key="Insert" action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}"/>
-   <assigment key="NonUsBackslash" action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}"/>
-   <assigment key="Q" action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}"/>
-   <assigment key="Lang1" action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}"/>
-   <assigment key="S" action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}"/>
-   <assigment key="2" action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}"/>
-   <assigment key="DownArrow" action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}"/>
-   <assigment key="F3" action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}"/>
-   <assigment key="International1" action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}"/>
-   <assigment key="M" action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}"/>
-   <assigment key="WinLock" action="{a3c571ac-56d3-4420-956b-4e74bbe459ae}"/>
-   <assigment key="F12" action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}"/>
-   <assigment key="L" action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}"/>
-   <assigment key="9" action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}"/>
-   <assigment key="Fn" action="{72c36603-cfde-4005-a45f-c3220a79525b}"/>
-   <assigment key="P" action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}"/>
-   <assigment key="F10" action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}"/>
-   <assigment key="RightShift" action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}"/>
-   <assigment key="BracketRight" action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}"/>
-   <assigment key="C" action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}"/>
-   <assigment key="R" action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}"/>
-   <assigment key="G" action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}"/>
-   <assigment key="5" action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}"/>
-   <assigment key="F6" action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}"/>
-   <assigment key="VolumeDown" action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}"/>
-   <assigment key="Backspace" action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}"/>
-   <assigment key="SlashAndQuestionMark" action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}"/>
-   <assigment key="PauseBreak" action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}"/>
-   <assigment key="LeftShift" action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}"/>
-   <assigment key="Tab" action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}"/>
-   <assigment key="Space" action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}"/>
-   <assigment key="A" action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}"/>
-   <assigment key="1" action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}"/>
-   <assigment key="LeftArrow" action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}"/>
-   <assigment key="F2" action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}"/>
-   <assigment key="Enter" action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}"/>
-   <assigment key="N" action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}"/>
-   <assigment key="RightArrow" action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}"/>
-   <assigment key="Brightness" action="{1d001c9f-f6f9-444e-91cc-0566fd281388}"/>
-   <assigment key="K" action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}"/>
+   <assigment action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}" key="N"/>
+   <assigment action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}" key="ScrollLock"/>
+   <assigment action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}" key="Z"/>
+   <assigment action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}" key="W"/>
+   <assigment action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}" key="Application"/>
+   <assigment action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}" key="L"/>
+   <assigment action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}" key="9"/>
+   <assigment action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}" key="End"/>
+   <assigment action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}" key="Escape"/>
+   <assigment action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}" key="VolumeDown"/>
+   <assigment action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}" key="International1"/>
+   <assigment action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}" key="SlashAndQuestionMark"/>
+   <assigment action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}" key="PageUp"/>
+   <assigment action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}" key="B"/>
+   <assigment action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}" key="International4"/>
+   <assigment action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}" key="Y"/>
+   <assigment action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}" key="O"/>
+   <assigment action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}" key="F9"/>
+   <assigment action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}" key="UpArrow"/>
+   <assigment action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}" key="F4"/>
+   <assigment action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}" key="RightArrow"/>
+   <assigment action="{1d001c9f-f6f9-444e-91cc-0566fd281388}" key="Brightness"/>
+   <assigment action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}" key="ApostropheAndDoubleQuote"/>
+   <assigment action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}" key="MinusAndUnderscore"/>
+   <assigment action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}" key="International2"/>
+   <assigment action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}" key="H"/>
+   <assigment action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}" key="6"/>
+   <assigment action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}" key="A"/>
+   <assigment action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}" key="1"/>
+   <assigment action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}" key="Backslash"/>
+   <assigment action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}" key="M"/>
+   <assigment action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}" key="PauseBreak"/>
+   <assigment action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}" key="X"/>
+   <assigment action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}" key="E"/>
+   <assigment action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}" key="SemicolonAndColon"/>
+   <assigment action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}" key="0"/>
+   <assigment action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}" key="PageDown"/>
+   <assigment action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}" key="F1"/>
+   <assigment action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}" key="EqualsAndPlus"/>
+   <assigment action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}" key="LeftCtrl"/>
+   <assigment action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}" key="Lang2"/>
+   <assigment action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}" key="D"/>
+   <assigment action="{72c36603-cfde-4005-a45f-c3220a79525b}" key="Fn"/>
+   <assigment action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}" key="3"/>
+   <assigment action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}" key="P"/>
+   <assigment action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}" key="F10"/>
+   <assigment action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}" key="LeftArrow"/>
+   <assigment action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}" key="F5"/>
+   <assigment action="{a3c571ac-56d3-4420-956b-4e74bbe459ae}" key="WinLock"/>
+   <assigment action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}" key="F12"/>
+   <assigment action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}" key="LeftShift"/>
+   <assigment action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}" key="Tab"/>
+   <assigment action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}" key="RightAlt"/>
+   <assigment action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}" key="J"/>
+   <assigment action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}" key="7"/>
+   <assigment action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}" key="S"/>
+   <assigment action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}" key="2"/>
+   <assigment action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}" key="NonUsTilde"/>
+   <assigment action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}" key="CommaAndLessThan"/>
+   <assigment action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}" key="Insert"/>
+   <assigment action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}" key="C"/>
+   <assigment action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}" key="R"/>
+   <assigment action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}" key="U"/>
+   <assigment action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}" key="F7"/>
+   <assigment action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}" key="RightShift"/>
+   <assigment action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}" key="F2"/>
+   <assigment action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}" key="International3"/>
+   <assigment action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}" key="LeftGui"/>
+   <assigment action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}" key="Space"/>
+   <assigment action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}" key="F"/>
+   <assigment action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}" key="4"/>
+   <assigment action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}" key="BracketLeft"/>
+   <assigment action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}" key="F11"/>
+   <assigment action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}" key="DownArrow"/>
+   <assigment action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}" key="F6"/>
+   <assigment action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}" key="Mute"/>
+   <assigment action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}" key="PrintScreen"/>
+   <assigment action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}" key="NonUsBackslash"/>
+   <assigment action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}" key="Q"/>
+   <assigment action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}" key="K"/>
+   <assigment action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}" key="8"/>
+   <assigment action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}" key="Delete"/>
+   <assigment action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}" key="VolumeUp"/>
+   <assigment action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}" key="Enter"/>
+   <assigment action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}" key="PeriodAndBiggerThan"/>
+   <assigment action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}" key="Home"/>
+   <assigment action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}" key="V"/>
+   <assigment action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}" key="International5"/>
+   <assigment action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}" key="T"/>
+   <assigment action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}" key="I"/>
+   <assigment action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}" key="F8"/>
+   <assigment action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}" key="RightCtrl"/>
+   <assigment action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}" key="F3"/>
+   <assigment action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}" key="Backspace"/>
+   <assigment action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}" key="LeftAlt"/>
+   <assigment action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}" key="Lang1"/>
+   <assigment action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}" key="G"/>
+   <assigment action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}" key="5"/>
+   <assigment action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}" key="CapsLock"/>
+   <assigment action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}" key="GraveAccentAndTilde"/>
+   <assigment action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}" key="BracketRight"/>
   </assigments>
   <fgLightAssignments>
    <fgLightAssignment fgLightAssignmentKey="Brightness" fgLightAssignmentValue="{3777801e-5b75-409d-9a82-fe2092a7299c}">
@@ -162,210 +162,106 @@
   <basicLightBackgrounds>
    <groupBgLights/>
    <keyBgLights>
-    <lightBackground key="4" color="#a23529"/>
-    <lightBackground key="3" color="#a23529"/>
-    <lightBackground key="2" color="#a23529"/>
-    <lightBackground key="1" color="#a23529"/>
-    <lightBackground key="GraveAccentAndTilde" color="#a23529"/>
-    <lightBackground key="F11" color="#a23529"/>
-    <lightBackground key="F10" color="#a23529"/>
-    <lightBackground key="F9" color="#a23529"/>
-    <lightBackground key="F8" color="#a23529"/>
-    <lightBackground key="F7" color="#a23529"/>
-    <lightBackground key="VolumeDown" color="#a23529"/>
-    <lightBackground key="F6" color="#a23529"/>
-    <lightBackground key="VolumeUp" color="#a23529"/>
-    <lightBackground key="F5" color="#a23529"/>
-    <lightBackground key="F4" color="#a23529"/>
-    <lightBackground key="F3" color="#a23529"/>
-    <lightBackground key="F2" color="#a23529"/>
-    <lightBackground key="F1" color="#a23529"/>
-    <lightBackground key="Escape" color="#a23529"/>
-    <lightBackground key="LeftAlt" color="#a23529"/>
-    <lightBackground key="LeftGui" color="#a23529"/>
-    <lightBackground key="LeftCtrl" color="#a23529"/>
-    <lightBackground key="SlashAndQuestionMark" color="#a23529"/>
-    <lightBackground key="PeriodAndBiggerThan" color="#a23529"/>
-    <lightBackground key="CommaAndLessThan" color="#a23529"/>
-    <lightBackground key="M" color="#a23529"/>
-    <lightBackground key="N" color="#a23529"/>
-    <lightBackground key="B" color="#a23529"/>
-    <lightBackground key="V" color="#a23529"/>
-    <lightBackground key="C" color="#a23529"/>
-    <lightBackground key="X" color="#a23529"/>
-    <lightBackground key="Z" color="#a23529"/>
-    <lightBackground key="LeftShift" color="#a23529"/>
-    <lightBackground key="ApostropheAndDoubleQuote" color="#a23529"/>
-    <lightBackground key="SemicolonAndColon" color="#a23529"/>
-    <lightBackground key="L" color="#a23529"/>
-    <lightBackground key="K" color="#a23529"/>
-    <lightBackground key="J" color="#a23529"/>
-    <lightBackground key="H" color="#a23529"/>
-    <lightBackground key="G" color="#a23529"/>
-    <lightBackground key="F" color="#a23529"/>
-    <lightBackground key="D" color="#a23529"/>
-    <lightBackground key="S" color="#a23529"/>
-    <lightBackground key="A" color="#a23529"/>
-    <lightBackground key="CapsLock" color="#a23529"/>
-    <lightBackground key="BracketLeft" color="#a23529"/>
-    <lightBackground key="P" color="#a23529"/>
-    <lightBackground key="O" color="#a23529"/>
-    <lightBackground key="I" color="#a23529"/>
-    <lightBackground key="U" color="#a23529"/>
-    <lightBackground key="DownArrow" color="#a23529"/>
-    <lightBackground key="LeftArrow" color="#a23529"/>
-    <lightBackground key="UpArrow" color="#a23529"/>
-    <lightBackground key="RightCtrl" color="#a23529"/>
-    <lightBackground key="RightShift" color="#a23529"/>
-    <lightBackground key="PageDown" color="#a23529"/>
-    <lightBackground key="End" color="#a23529"/>
-    <lightBackground key="Delete" color="#a23529"/>
-    <lightBackground key="Backspace" color="#a23529"/>
-    <lightBackground key="EqualsAndPlus" color="#a23529"/>
-    <lightBackground key="Enter" color="#a23529"/>
-    <lightBackground key="Backslash" color="#a23529"/>
-    <lightBackground key="BracketRight" color="#a23529"/>
-    <lightBackground key="PageUp" color="#a23529"/>
-    <lightBackground key="Home" color="#a23529"/>
-    <lightBackground key="Insert" color="#a23529"/>
-    <lightBackground key="PauseBreak" color="#a23529"/>
-    <lightBackground key="ScrollLock" color="#a23529"/>
-    <lightBackground key="PrintScreen" color="#a23529"/>
-    <lightBackground key="F12" color="#a23529"/>
-    <lightBackground key="Brightness" color="#a23529"/>
-    <lightBackground key="Application" color="#a23529"/>
-    <lightBackground key="RightAlt" color="#a23529"/>
-    <lightBackground key="Space" color="#a23529"/>
-    <lightBackground key="Mute" color="#a23529"/>
-    <lightBackground key="WinLock" color="#a23529"/>
-    <lightBackground key="RightArrow" color="#a23529"/>
-    <lightBackground key="Y" color="#a23529"/>
-    <lightBackground key="T" color="#a23529"/>
-    <lightBackground key="R" color="#a23529"/>
-    <lightBackground key="E" color="#a23529"/>
-    <lightBackground key="W" color="#a23529"/>
-    <lightBackground key="Q" color="#a23529"/>
-    <lightBackground key="Tab" color="#a23529"/>
-    <lightBackground key="MinusAndUnderscore" color="#a23529"/>
-    <lightBackground key="0" color="#a23529"/>
-    <lightBackground key="Fn" color="#a23529"/>
-    <lightBackground key="9" color="#a23529"/>
-    <lightBackground key="8" color="#a23529"/>
-    <lightBackground key="7" color="#a23529"/>
-    <lightBackground key="6" color="#a23529"/>
-    <lightBackground key="5" color="#a23529"/>
+    <lightBackground key="PauseBreak" color="#ffffff"/>
+    <lightBackground key="Insert" color="#ffffff"/>
+    <lightBackground key="Home" color="#ffffff"/>
+    <lightBackground key="PageUp" color="#ffffff"/>
+    <lightBackground key="Space" color="#ffffff"/>
+    <lightBackground key="RightAlt" color="#ffffff"/>
+    <lightBackground key="Application" color="#ffffff"/>
+    <lightBackground key="RightArrow" color="#ffffff"/>
+    <lightBackground key="WinLock" color="#ffffff"/>
+    <lightBackground key="Mute" color="#ffffff"/>
+    <lightBackground key="MinusAndUnderscore" color="#ffffff"/>
+    <lightBackground key="Tab" color="#ffffff"/>
+    <lightBackground key="Q" color="#ffffff"/>
+    <lightBackground key="W" color="#ffffff"/>
+    <lightBackground key="E" color="#ffffff"/>
+    <lightBackground key="R" color="#ffffff"/>
+    <lightBackground key="T" color="#ffffff"/>
+    <lightBackground key="Y" color="#ffffff"/>
+    <lightBackground key="Fn" color="#ffffff"/>
+    <lightBackground key="3" color="#ffffff"/>
+    <lightBackground key="4" color="#ffffff"/>
+    <lightBackground key="5" color="#ffffff"/>
+    <lightBackground key="6" color="#ffffff"/>
+    <lightBackground key="7" color="#ffffff"/>
+    <lightBackground key="8" color="#ffffff"/>
+    <lightBackground key="9" color="#ffffff"/>
+    <lightBackground key="0" color="#ffffff"/>
+    <lightBackground key="F7" color="#ffffff"/>
+    <lightBackground key="F8" color="#ffffff"/>
+    <lightBackground key="F9" color="#ffffff"/>
+    <lightBackground key="F10" color="#ffffff"/>
+    <lightBackground key="F11" color="#ffffff"/>
+    <lightBackground key="GraveAccentAndTilde" color="#ffffff"/>
+    <lightBackground key="1" color="#ffffff"/>
+    <lightBackground key="2" color="#ffffff"/>
+    <lightBackground key="VolumeUp" color="#ffffff"/>
+    <lightBackground key="Escape" color="#ffffff"/>
+    <lightBackground key="VolumeDown" color="#ffffff"/>
+    <lightBackground key="F1" color="#ffffff"/>
+    <lightBackground key="F2" color="#ffffff"/>
+    <lightBackground key="F3" color="#ffffff"/>
+    <lightBackground key="F4" color="#ffffff"/>
+    <lightBackground key="F5" color="#ffffff"/>
+    <lightBackground key="F6" color="#ffffff"/>
+    <lightBackground key="N" color="#ffffff"/>
+    <lightBackground key="M" color="#ffffff"/>
+    <lightBackground key="CommaAndLessThan" color="#ffffff"/>
+    <lightBackground key="PeriodAndBiggerThan" color="#ffffff"/>
+    <lightBackground key="SlashAndQuestionMark" color="#ffffff"/>
+    <lightBackground key="LeftCtrl" color="#ffffff"/>
+    <lightBackground key="LeftGui" color="#ffffff"/>
+    <lightBackground key="LeftAlt" color="#ffffff"/>
+    <lightBackground key="ApostropheAndDoubleQuote" color="#ffffff"/>
+    <lightBackground key="LeftShift" color="#ffffff"/>
+    <lightBackground key="Z" color="#ffffff"/>
+    <lightBackground key="X" color="#ffffff"/>
+    <lightBackground key="C" color="#ffffff"/>
+    <lightBackground key="V" color="#ffffff"/>
+    <lightBackground key="B" color="#ffffff"/>
+    <lightBackground key="D" color="#ffffff"/>
+    <lightBackground key="F" color="#ffffff"/>
+    <lightBackground key="G" color="#ffffff"/>
+    <lightBackground key="H" color="#ffffff"/>
+    <lightBackground key="J" color="#ffffff"/>
+    <lightBackground key="K" color="#ffffff"/>
+    <lightBackground key="L" color="#ffffff"/>
+    <lightBackground key="SemicolonAndColon" color="#ffffff"/>
+    <lightBackground key="U" color="#ffffff"/>
+    <lightBackground key="I" color="#ffffff"/>
+    <lightBackground key="O" color="#ffffff"/>
+    <lightBackground key="P" color="#ffffff"/>
+    <lightBackground key="BracketLeft" color="#ffffff"/>
+    <lightBackground key="CapsLock" color="#ffffff"/>
+    <lightBackground key="A" color="#ffffff"/>
+    <lightBackground key="S" color="#ffffff"/>
+    <lightBackground key="Delete" color="#ffffff"/>
+    <lightBackground key="End" color="#ffffff"/>
+    <lightBackground key="PageDown" color="#ffffff"/>
+    <lightBackground key="RightShift" color="#ffffff"/>
+    <lightBackground key="RightCtrl" color="#ffffff"/>
+    <lightBackground key="UpArrow" color="#ffffff"/>
+    <lightBackground key="LeftArrow" color="#ffffff"/>
+    <lightBackground key="DownArrow" color="#ffffff"/>
+    <lightBackground key="BracketRight" color="#ffffff"/>
+    <lightBackground key="Backslash" color="#ffffff"/>
+    <lightBackground key="Enter" color="#ffffff"/>
+    <lightBackground key="EqualsAndPlus" color="#ffffff"/>
+    <lightBackground key="Backspace" color="#ffffff"/>
+    <lightBackground key="Brightness" color="#ffffff"/>
+    <lightBackground key="F12" color="#ffffff"/>
+    <lightBackground key="PrintScreen" color="#ffffff"/>
+    <lightBackground key="ScrollLock" color="#ffffff"/>
    </keyBgLights>
   </basicLightBackgrounds>
   <disabledLightings/>
   <groupsData/>
   <basicLightingsParameters>
-   <parameters basicLightingEffect="7">
-    <speed>0</speed>
-    <color>2</color>
-    <direction>0</direction>
-    <duration>0</duration>
-    <selectedColor>#ff0000</selectedColor>
-    <alternatingColors>
-     <color order="1">#ff0000</color>
-     <color order="2">#0000ff</color>
-    </alternatingColors>
-    <eqaliserPattern>1</eqaliserPattern>
-    <frequencyVisualizerAnimation>1</frequencyVisualizerAnimation>
-   </parameters>
-   <parameters basicLightingEffect="6">
-    <speed>0</speed>
+   <parameters basicLightingEffect="0">
+    <speed>2</speed>
     <color>0</color>
-    <direction>0</direction>
-    <duration>0</duration>
-    <selectedColor>#ff0000</selectedColor>
-    <alternatingColors>
-     <color order="1">#ff0000</color>
-     <color order="2">#0000ff</color>
-    </alternatingColors>
-    <eqaliserPattern>1</eqaliserPattern>
-    <frequencyVisualizerAnimation>1</frequencyVisualizerAnimation>
-   </parameters>
-   <parameters basicLightingEffect="23">
-    <speed>0</speed>
-    <color>3</color>
-    <direction>3</direction>
-    <duration>0</duration>
-    <selectedColor>#ff0000</selectedColor>
-    <alternatingColors>
-     <color order="1">#51ff00</color>
-     <color order="2">#ff3300</color>
-    </alternatingColors>
-    <eqaliserPattern>1</eqaliserPattern>
-    <frequencyVisualizerAnimation>1</frequencyVisualizerAnimation>
-   </parameters>
-   <parameters basicLightingEffect="5">
-    <speed>2</speed>
-    <color>1</color>
-    <direction>0</direction>
-    <duration>0</duration>
-    <selectedColor>#ff0000</selectedColor>
-    <alternatingColors>
-     <color order="1">#ff0000</color>
-     <color order="2">#0000ff</color>
-    </alternatingColors>
-    <eqaliserPattern>1</eqaliserPattern>
-    <frequencyVisualizerAnimation>1</frequencyVisualizerAnimation>
-   </parameters>
-   <parameters basicLightingEffect="22">
-    <speed>0</speed>
-    <color>3</color>
-    <direction>3</direction>
-    <duration>0</duration>
-    <selectedColor>#ff0000</selectedColor>
-    <alternatingColors>
-     <color order="1">#51ff00</color>
-     <color order="2">#ff3300</color>
-    </alternatingColors>
-    <eqaliserPattern>1</eqaliserPattern>
-    <frequencyVisualizerAnimation>1</frequencyVisualizerAnimation>
-   </parameters>
-   <parameters basicLightingEffect="4">
-    <speed>2</speed>
-    <color>1</color>
-    <direction>0</direction>
-    <duration>0</duration>
-    <selectedColor>#ff0000</selectedColor>
-    <alternatingColors>
-     <color order="1">#ff0000</color>
-     <color order="2">#0000ff</color>
-    </alternatingColors>
-    <eqaliserPattern>1</eqaliserPattern>
-    <frequencyVisualizerAnimation>1</frequencyVisualizerAnimation>
-   </parameters>
-   <parameters basicLightingEffect="21">
-    <speed>3</speed>
-    <color>0</color>
-    <direction>5</direction>
-    <duration>0</duration>
-    <selectedColor>#ff0000</selectedColor>
-    <alternatingColors>
-     <color order="1">#ff0000</color>
-     <color order="2">#0000ff</color>
-    </alternatingColors>
-    <eqaliserPattern>1</eqaliserPattern>
-    <frequencyVisualizerAnimation>1</frequencyVisualizerAnimation>
-   </parameters>
-   <parameters basicLightingEffect="3">
-    <speed>0</speed>
-    <color>1</color>
-    <direction>0</direction>
-    <duration>2</duration>
-    <selectedColor>#ff0000</selectedColor>
-    <alternatingColors>
-     <color order="1">#ff0000</color>
-     <color order="2">#0000ff</color>
-    </alternatingColors>
-    <eqaliserPattern>1</eqaliserPattern>
-    <frequencyVisualizerAnimation>1</frequencyVisualizerAnimation>
-   </parameters>
-   <parameters basicLightingEffect="2">
-    <speed>2</speed>
-    <color>1</color>
     <direction>3</direction>
     <duration>0</duration>
     <selectedColor>#ff0000</selectedColor>
@@ -389,9 +285,9 @@
     <eqaliserPattern>1</eqaliserPattern>
     <frequencyVisualizerAnimation>1</frequencyVisualizerAnimation>
    </parameters>
-   <parameters basicLightingEffect="0">
+   <parameters basicLightingEffect="2">
     <speed>2</speed>
-    <color>0</color>
+    <color>1</color>
     <direction>3</direction>
     <duration>0</duration>
     <selectedColor>#ff0000</selectedColor>
@@ -402,10 +298,23 @@
     <eqaliserPattern>1</eqaliserPattern>
     <frequencyVisualizerAnimation>1</frequencyVisualizerAnimation>
    </parameters>
-   <parameters basicLightingEffect="11">
+   <parameters basicLightingEffect="3">
+    <speed>0</speed>
+    <color>1</color>
+    <direction>0</direction>
+    <duration>2</duration>
+    <selectedColor>#ff0000</selectedColor>
+    <alternatingColors>
+     <color order="1">#ff0000</color>
+     <color order="2">#0000ff</color>
+    </alternatingColors>
+    <eqaliserPattern>1</eqaliserPattern>
+    <frequencyVisualizerAnimation>1</frequencyVisualizerAnimation>
+   </parameters>
+   <parameters basicLightingEffect="4">
     <speed>2</speed>
-    <color>0</color>
-    <direction>2</direction>
+    <color>1</color>
+    <direction>0</direction>
     <duration>0</duration>
     <selectedColor>#ff0000</selectedColor>
     <alternatingColors>
@@ -415,9 +324,87 @@
     <eqaliserPattern>1</eqaliserPattern>
     <frequencyVisualizerAnimation>1</frequencyVisualizerAnimation>
    </parameters>
-   <parameters basicLightingEffect="10">
+   <parameters basicLightingEffect="5">
     <speed>2</speed>
     <color>1</color>
+    <direction>0</direction>
+    <duration>0</duration>
+    <selectedColor>#ff0000</selectedColor>
+    <alternatingColors>
+     <color order="1">#ff0000</color>
+     <color order="2">#0000ff</color>
+    </alternatingColors>
+    <eqaliserPattern>1</eqaliserPattern>
+    <frequencyVisualizerAnimation>1</frequencyVisualizerAnimation>
+   </parameters>
+   <parameters basicLightingEffect="6">
+    <speed>0</speed>
+    <color>0</color>
+    <direction>0</direction>
+    <duration>0</duration>
+    <selectedColor>#ff0000</selectedColor>
+    <alternatingColors>
+     <color order="1">#ff0000</color>
+     <color order="2">#0000ff</color>
+    </alternatingColors>
+    <eqaliserPattern>1</eqaliserPattern>
+    <frequencyVisualizerAnimation>1</frequencyVisualizerAnimation>
+   </parameters>
+   <parameters basicLightingEffect="21">
+    <speed>3</speed>
+    <color>0</color>
+    <direction>5</direction>
+    <duration>0</duration>
+    <selectedColor>#ff0000</selectedColor>
+    <alternatingColors>
+     <color order="1">#ff0000</color>
+     <color order="2">#0000ff</color>
+    </alternatingColors>
+    <eqaliserPattern>1</eqaliserPattern>
+    <frequencyVisualizerAnimation>1</frequencyVisualizerAnimation>
+   </parameters>
+   <parameters basicLightingEffect="7">
+    <speed>0</speed>
+    <color>2</color>
+    <direction>0</direction>
+    <duration>0</duration>
+    <selectedColor>#ff0000</selectedColor>
+    <alternatingColors>
+     <color order="1">#ff0000</color>
+     <color order="2">#0000ff</color>
+    </alternatingColors>
+    <eqaliserPattern>1</eqaliserPattern>
+    <frequencyVisualizerAnimation>1</frequencyVisualizerAnimation>
+   </parameters>
+   <parameters basicLightingEffect="22">
+    <speed>0</speed>
+    <color>3</color>
+    <direction>3</direction>
+    <duration>0</duration>
+    <selectedColor>#ff0000</selectedColor>
+    <alternatingColors>
+     <color order="1">#51ff00</color>
+     <color order="2">#ff3300</color>
+    </alternatingColors>
+    <eqaliserPattern>1</eqaliserPattern>
+    <frequencyVisualizerAnimation>1</frequencyVisualizerAnimation>
+   </parameters>
+   <parameters basicLightingEffect="23">
+    <speed>0</speed>
+    <color>3</color>
+    <direction>3</direction>
+    <duration>0</duration>
+    <selectedColor>#ff0000</selectedColor>
+    <alternatingColors>
+     <color order="1">#51ff00</color>
+     <color order="2">#ff3300</color>
+    </alternatingColors>
+    <eqaliserPattern>1</eqaliserPattern>
+    <frequencyVisualizerAnimation>1</frequencyVisualizerAnimation>
+   </parameters>
+   <parameters basicLightingEffect="8">
+    <speed>2</speed>
+    <color>0</color>
     <direction>0</direction>
     <duration>0</duration>
     <selectedColor>#ff0000</selectedColor>
@@ -441,10 +428,23 @@
     <eqaliserPattern>1</eqaliserPattern>
     <frequencyVisualizerAnimation>1</frequencyVisualizerAnimation>
    </parameters>
-   <parameters basicLightingEffect="8">
+   <parameters basicLightingEffect="10">
+    <speed>2</speed>
+    <color>1</color>
+    <direction>0</direction>
+    <duration>0</duration>
+    <selectedColor>#ff0000</selectedColor>
+    <alternatingColors>
+     <color order="1">#ff0000</color>
+     <color order="2">#0000ff</color>
+    </alternatingColors>
+    <eqaliserPattern>1</eqaliserPattern>
+    <frequencyVisualizerAnimation>1</frequencyVisualizerAnimation>
+   </parameters>
+   <parameters basicLightingEffect="11">
     <speed>2</speed>
     <color>0</color>
-    <direction>0</direction>
+    <direction>2</direction>
     <duration>0</duration>
     <selectedColor>#ff0000</selectedColor>
     <alternatingColors>
@@ -458,18 +458,44 @@
   <currentLightingEffect>6</currentLightingEffect>
   <isInAdvancedLightingMode>0</isInAdvancedLightingMode>
   <lighting_zones>
-   <lighting_zone name="All" type="0">
+   <lighting_zone type="0" name="All">
     <currentLightingEffect>6</currentLightingEffect>
     <basicLightingsParameters>
-     <parameters basicLightingEffect="23">
-      <speed>0</speed>
-      <color>3</color>
+     <parameters basicLightingEffect="0">
+      <speed>2</speed>
+      <color>0</color>
       <direction>3</direction>
       <duration>0</duration>
       <selectedColor>#ff0000</selectedColor>
       <alternatingColors>
-       <color order="1">#51ff00</color>
-       <color order="2">#ff3300</color>
+       <color order="1">#ff0000</color>
+       <color order="2">#0000ff</color>
+      </alternatingColors>
+      <eqaliserPattern>1</eqaliserPattern>
+      <frequencyVisualizerAnimation>1</frequencyVisualizerAnimation>
+     </parameters>
+     <parameters basicLightingEffect="2">
+      <speed>2</speed>
+      <color>1</color>
+      <direction>3</direction>
+      <duration>0</duration>
+      <selectedColor>#ff0000</selectedColor>
+      <alternatingColors>
+       <color order="1">#ff0000</color>
+       <color order="2">#0000ff</color>
+      </alternatingColors>
+      <eqaliserPattern>1</eqaliserPattern>
+      <frequencyVisualizerAnimation>1</frequencyVisualizerAnimation>
+     </parameters>
+     <parameters basicLightingEffect="3">
+      <speed>0</speed>
+      <color>1</color>
+      <direction>0</direction>
+      <duration>2</duration>
+      <selectedColor>#ff0000</selectedColor>
+      <alternatingColors>
+       <color order="1">#ff0000</color>
+       <color order="2">#0000ff</color>
       </alternatingColors>
       <eqaliserPattern>1</eqaliserPattern>
       <frequencyVisualizerAnimation>1</frequencyVisualizerAnimation>
@@ -500,41 +526,15 @@
       <eqaliserPattern>1</eqaliserPattern>
       <frequencyVisualizerAnimation>1</frequencyVisualizerAnimation>
      </parameters>
-     <parameters basicLightingEffect="3">
+     <parameters basicLightingEffect="23">
       <speed>0</speed>
-      <color>1</color>
-      <direction>0</direction>
-      <duration>2</duration>
-      <selectedColor>#ff0000</selectedColor>
-      <alternatingColors>
-       <color order="1">#ff0000</color>
-       <color order="2">#0000ff</color>
-      </alternatingColors>
-      <eqaliserPattern>1</eqaliserPattern>
-      <frequencyVisualizerAnimation>1</frequencyVisualizerAnimation>
-     </parameters>
-     <parameters basicLightingEffect="2">
-      <speed>2</speed>
-      <color>1</color>
+      <color>3</color>
       <direction>3</direction>
       <duration>0</duration>
       <selectedColor>#ff0000</selectedColor>
       <alternatingColors>
-       <color order="1">#ff0000</color>
-       <color order="2">#0000ff</color>
-      </alternatingColors>
-      <eqaliserPattern>1</eqaliserPattern>
-      <frequencyVisualizerAnimation>1</frequencyVisualizerAnimation>
-     </parameters>
-     <parameters basicLightingEffect="0">
-      <speed>2</speed>
-      <color>0</color>
-      <direction>3</direction>
-      <duration>0</duration>
-      <selectedColor>#ff0000</selectedColor>
-      <alternatingColors>
-       <color order="1">#ff0000</color>
-       <color order="2">#0000ff</color>
+       <color order="1">#51ff00</color>
+       <color order="2">#ff3300</color>
       </alternatingColors>
       <eqaliserPattern>1</eqaliserPattern>
       <frequencyVisualizerAnimation>1</frequencyVisualizerAnimation>
@@ -558,39 +558,12 @@
  </mode>
  <Lightings/>
  <Actions>
-  <Action version="7" Type="modeSwitch">
-   <Id>{72c36603-cfde-4005-a45f-c3220a79525b}</Id>
-   <Name>Mode switching (40)</Name>
-   <Note></Note>
-   <Date>2017-09-21</Date>
-   <BindCounter>12</BindCounter>
-   <Visible>0</Visible>
-   <Predefined>0</Predefined>
-   <ExecutionHints>
-    <ExecEvent>press</ExecEvent>
-    <TerminateWhenStartedAgain>false</TerminateWhenStartedAgain>
-    <RestartWhenStartedAgain>false</RestartWhenStartedAgain>
-   </ExecutionHints>
-   <RepeatOptions version="1">
-    <Mode>1</Mode>
-    <DelayMode>0</DelayMode>
-    <AmountOfRepeats>1</AmountOfRepeats>
-    <Delay>0</Delay>
-    <RandomDelayFrom>0</RandomDelayFrom>
-    <RandomDelayTo>0</RandomDelayTo>
-   </RepeatOptions>
-   <ActionLighting>{00000000-0000-0000-0000-000000000000}</ActionLighting>
-   <SwitchingType>1</SwitchingType>
-   <DirectModeId>{ce04bffc-f4a5-4e9b-8737-917e116b8ec0}</DirectModeId>
-   <OptionSelected>1</OptionSelected>
-   <MKeyName></MKeyName>
-  </Action>
-  <Action version="7" Type="modeSwitch">
+  <Action Type="modeSwitch" version="7">
    <Id>{a3c571ac-56d3-4420-956b-4e74bbe459ae}</Id>
    <Name>Mode switching (47)</Name>
    <Note></Note>
    <Date>2017-09-23</Date>
-   <BindCounter>1</BindCounter>
+   <BindCounter>2</BindCounter>
    <Visible>0</Visible>
    <Predefined>0</Predefined>
    <ExecutionHints>
@@ -610,6 +583,33 @@
    <SwitchingType>1</SwitchingType>
    <DirectModeId>{771bcd5e-7bd3-4cbc-a33e-40570114896a}</DirectModeId>
    <OptionSelected>0</OptionSelected>
+   <MKeyName></MKeyName>
+  </Action>
+  <Action Type="modeSwitch" version="7">
+   <Id>{72c36603-cfde-4005-a45f-c3220a79525b}</Id>
+   <Name>Mode switching (40)</Name>
+   <Note></Note>
+   <Date>2017-09-21</Date>
+   <BindCounter>15</BindCounter>
+   <Visible>0</Visible>
+   <Predefined>0</Predefined>
+   <ExecutionHints>
+    <ExecEvent>press</ExecEvent>
+    <TerminateWhenStartedAgain>false</TerminateWhenStartedAgain>
+    <RestartWhenStartedAgain>false</RestartWhenStartedAgain>
+   </ExecutionHints>
+   <RepeatOptions version="1">
+    <Mode>1</Mode>
+    <DelayMode>0</DelayMode>
+    <AmountOfRepeats>1</AmountOfRepeats>
+    <Delay>0</Delay>
+    <RandomDelayFrom>0</RandomDelayFrom>
+    <RandomDelayTo>0</RandomDelayTo>
+   </RepeatOptions>
+   <ActionLighting>{00000000-0000-0000-0000-000000000000}</ActionLighting>
+   <SwitchingType>1</SwitchingType>
+   <DirectModeId>{ce04bffc-f4a5-4e9b-8737-917e116b8ec0}</DirectModeId>
+   <OptionSelected>1</OptionSelected>
    <MKeyName></MKeyName>
   </Action>
  </Actions>

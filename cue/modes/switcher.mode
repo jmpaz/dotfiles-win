@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ExportedMode>
- <mode cookie="13" version="6">
+ <mode cookie="17" version="6">
   <deviceModelName>CGK65 RGB</deviceModelName>
   <name>switcher</name>
   <buttonGroups>
@@ -13,7 +13,8 @@
      <Button>1</Button>
      <Button>4</Button>
      <Button>3</Button>
-     <Button>Delete</Button>
+     <Button>M</Button>
+     <Button>5</Button>
     </Buttons>
     <InPredefinedState>false</InPredefinedState>
    </ButtonGroup>
@@ -24,7 +25,7 @@
   <skipped>1</skipped>
   <currentPerformanceIndex>0</currentPerformanceIndex>
   <performances>
-   <performance type="keyboard" version="1">
+   <performance version="1" type="keyboard">
     <brightnessLevelIndex>3</brightnessLevelIndex>
     <winKey></winKey>
    </performance>
@@ -33,106 +34,106 @@
    <key>Escape</key>
   </clearedKeys>
   <assigments>
-   <assigment key="8" action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}"/>
-   <assigment key="International4" action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}"/>
-   <assigment key="O" action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}"/>
-   <assigment key="F9" action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}"/>
-   <assigment key="PageDown" action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}"/>
-   <assigment key="LeftAlt" action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}"/>
-   <assigment key="PageUp" action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}"/>
-   <assigment key="X" action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}"/>
-   <assigment key="E" action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}"/>
-   <assigment key="RightAlt" action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}"/>
-   <assigment key="F" action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}"/>
-   <assigment key="4" action="{f0cc3cc5-ca2b-4ca7-abd0-c4a1e3cc8cb5}"/>
-   <assigment key="F5" action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}"/>
-   <assigment key="VolumeUp" action="{81e35711-8f98-4637-b1d7-453f27cc453d}"/>
-   <assigment key="International3" action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}"/>
-   <assigment key="PeriodAndBiggerThan" action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}"/>
-   <assigment key="ScrollLock" action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}"/>
-   <assigment key="ApostropheAndDoubleQuote" action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}"/>
-   <assigment key="MinusAndUnderscore" action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}"/>
-   <assigment key="Lang2" action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}"/>
-   <assigment key="CapsLock" action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}"/>
-   <assigment key="GraveAccentAndTilde" action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}"/>
-   <assigment key="UpArrow" action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}"/>
-   <assigment key="F1" action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}"/>
-   <assigment key="NonUsTilde" action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}"/>
-   <assigment key="B" action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}"/>
-   <assigment key="Y" action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}"/>
-   <assigment key="J" action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}"/>
-   <assigment key="International5" action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}"/>
-   <assigment key="7" action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}"/>
-   <assigment key="I" action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}"/>
-   <assigment key="F8" action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}"/>
-   <assigment key="End" action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}"/>
-   <assigment key="LeftGui" action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}"/>
-   <assigment key="Home" action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}"/>
-   <assigment key="Z" action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}"/>
-   <assigment key="W" action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}"/>
-   <assigment key="International2" action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}"/>
-   <assigment key="D" action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}"/>
-   <assigment key="3" action="{e17b8cc1-5819-478b-8129-e1cdf7d7b1fd}"/>
-   <assigment key="F4" action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}"/>
-   <assigment key="EqualsAndPlus" action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}"/>
-   <assigment key="CommaAndLessThan" action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}"/>
-   <assigment key="Mute" action="{570a9aad-5e6c-4790-99f6-0ea0da8e8d35}"/>
-   <assigment key="PrintScreen" action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}"/>
-   <assigment key="SemicolonAndColon" action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}"/>
-   <assigment key="0" action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}"/>
-   <assigment key="BracketLeft" action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}"/>
-   <assigment key="F11" action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}"/>
-   <assigment key="RightCtrl" action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}"/>
-   <assigment key="Backslash" action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}"/>
-   <assigment key="V" action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}"/>
-   <assigment key="T" action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}"/>
-   <assigment key="Application" action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}"/>
-   <assigment key="H" action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}"/>
-   <assigment key="6" action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}"/>
-   <assigment key="U" action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}"/>
-   <assigment key="F7" action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}"/>
-   <assigment key="Delete" action="{da6c5f0f-214b-44da-b49e-e008c170d17b}"/>
-   <assigment key="LeftCtrl" action="{30fa4b2f-2c87-4c24-918f-42bd368cf14a}"/>
-   <assigment key="Insert" action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}"/>
-   <assigment key="NonUsBackslash" action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}"/>
-   <assigment key="Q" action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}"/>
-   <assigment key="Lang1" action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}"/>
-   <assigment key="S" action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}"/>
-   <assigment key="2" action="{4f00e8e0-9a7e-48e5-9658-96102346ec68}"/>
-   <assigment key="DownArrow" action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}"/>
-   <assigment key="F3" action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}"/>
-   <assigment key="International1" action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}"/>
-   <assigment key="M" action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}"/>
-   <assigment key="WinLock" action="{0525102d-30b4-441e-87a7-b36ea95d4ac5}"/>
-   <assigment key="F12" action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}"/>
-   <assigment key="L" action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}"/>
-   <assigment key="9" action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}"/>
-   <assigment key="Fn" action="{72c36603-cfde-4005-a45f-c3220a79525b}"/>
-   <assigment key="P" action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}"/>
-   <assigment key="F10" action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}"/>
-   <assigment key="RightShift" action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}"/>
-   <assigment key="BracketRight" action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}"/>
-   <assigment key="C" action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}"/>
-   <assigment key="R" action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}"/>
-   <assigment key="G" action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}"/>
-   <assigment key="5" action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}"/>
-   <assigment key="F6" action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}"/>
-   <assigment key="VolumeDown" action="{7d6626fa-d84d-4ccd-a340-1b85999c08bf}"/>
-   <assigment key="Backspace" action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}"/>
-   <assigment key="SlashAndQuestionMark" action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}"/>
-   <assigment key="PauseBreak" action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}"/>
-   <assigment key="LeftShift" action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}"/>
-   <assigment key="Tab" action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}"/>
-   <assigment key="Space" action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}"/>
-   <assigment key="A" action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}"/>
-   <assigment key="1" action="{d25f3a4a-db9c-492c-927a-49d3effd6d72}"/>
-   <assigment key="LeftArrow" action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}"/>
-   <assigment key="F2" action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}"/>
-   <assigment key="Enter" action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}"/>
-   <assigment key="N" action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}"/>
-   <assigment key="RightArrow" action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}"/>
-   <assigment key="Brightness" action="{1d001c9f-f6f9-444e-91cc-0566fd281388}"/>
-   <assigment key="K" action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}"/>
+   <assigment action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}" key="N"/>
+   <assigment action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}" key="ScrollLock"/>
+   <assigment action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}" key="Z"/>
+   <assigment action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}" key="W"/>
+   <assigment action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}" key="Application"/>
+   <assigment action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}" key="L"/>
+   <assigment action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}" key="9"/>
+   <assigment action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}" key="End"/>
+   <assigment action="{7d6626fa-d84d-4ccd-a340-1b85999c08bf}" key="VolumeDown"/>
+   <assigment action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}" key="International1"/>
+   <assigment action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}" key="SlashAndQuestionMark"/>
+   <assigment action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}" key="PageUp"/>
+   <assigment action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}" key="B"/>
+   <assigment action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}" key="International4"/>
+   <assigment action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}" key="Y"/>
+   <assigment action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}" key="O"/>
+   <assigment action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}" key="F9"/>
+   <assigment action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}" key="UpArrow"/>
+   <assigment action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}" key="F4"/>
+   <assigment action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}" key="RightArrow"/>
+   <assigment action="{1d001c9f-f6f9-444e-91cc-0566fd281388}" key="Brightness"/>
+   <assigment action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}" key="ApostropheAndDoubleQuote"/>
+   <assigment action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}" key="MinusAndUnderscore"/>
+   <assigment action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}" key="International2"/>
+   <assigment action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}" key="H"/>
+   <assigment action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}" key="6"/>
+   <assigment action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}" key="A"/>
+   <assigment action="{b2acb8b6-8f28-4064-809b-eab4e3819199}" key="1"/>
+   <assigment action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}" key="Backslash"/>
+   <assigment action="{4affd24a-ba12-4b0b-9317-f39e22774ed4}" key="M"/>
+   <assigment action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}" key="PauseBreak"/>
+   <assigment action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}" key="X"/>
+   <assigment action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}" key="E"/>
+   <assigment action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}" key="SemicolonAndColon"/>
+   <assigment action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}" key="0"/>
+   <assigment action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}" key="PageDown"/>
+   <assigment action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}" key="F1"/>
+   <assigment action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}" key="EqualsAndPlus"/>
+   <assigment action="{30fa4b2f-2c87-4c24-918f-42bd368cf14a}" key="LeftCtrl"/>
+   <assigment action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}" key="Lang2"/>
+   <assigment action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}" key="D"/>
+   <assigment action="{72c36603-cfde-4005-a45f-c3220a79525b}" key="Fn"/>
+   <assigment action="{cdcb3dd3-5740-4be4-ad53-7510c10f2b40}" key="3"/>
+   <assigment action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}" key="P"/>
+   <assigment action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}" key="F10"/>
+   <assigment action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}" key="LeftArrow"/>
+   <assigment action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}" key="F5"/>
+   <assigment action="{0525102d-30b4-441e-87a7-b36ea95d4ac5}" key="WinLock"/>
+   <assigment action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}" key="F12"/>
+   <assigment action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}" key="LeftShift"/>
+   <assigment action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}" key="Tab"/>
+   <assigment action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}" key="RightAlt"/>
+   <assigment action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}" key="J"/>
+   <assigment action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}" key="7"/>
+   <assigment action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}" key="S"/>
+   <assigment action="{9f9f9c67-355f-42d8-a9d1-ff5d051d6312}" key="2"/>
+   <assigment action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}" key="NonUsTilde"/>
+   <assigment action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}" key="CommaAndLessThan"/>
+   <assigment action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}" key="Insert"/>
+   <assigment action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}" key="C"/>
+   <assigment action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}" key="R"/>
+   <assigment action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}" key="U"/>
+   <assigment action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}" key="F7"/>
+   <assigment action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}" key="RightShift"/>
+   <assigment action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}" key="F2"/>
+   <assigment action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}" key="International3"/>
+   <assigment action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}" key="LeftGui"/>
+   <assigment action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}" key="Space"/>
+   <assigment action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}" key="F"/>
+   <assigment action="{c1287a8d-4bd5-403f-8aa4-03762a9d469e}" key="4"/>
+   <assigment action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}" key="BracketLeft"/>
+   <assigment action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}" key="F11"/>
+   <assigment action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}" key="DownArrow"/>
+   <assigment action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}" key="F6"/>
+   <assigment action="{570a9aad-5e6c-4790-99f6-0ea0da8e8d35}" key="Mute"/>
+   <assigment action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}" key="PrintScreen"/>
+   <assigment action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}" key="NonUsBackslash"/>
+   <assigment action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}" key="Q"/>
+   <assigment action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}" key="K"/>
+   <assigment action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}" key="8"/>
+   <assigment action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}" key="Delete"/>
+   <assigment action="{81e35711-8f98-4637-b1d7-453f27cc453d}" key="VolumeUp"/>
+   <assigment action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}" key="Enter"/>
+   <assigment action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}" key="PeriodAndBiggerThan"/>
+   <assigment action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}" key="Home"/>
+   <assigment action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}" key="V"/>
+   <assigment action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}" key="International5"/>
+   <assigment action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}" key="T"/>
+   <assigment action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}" key="I"/>
+   <assigment action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}" key="F8"/>
+   <assigment action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}" key="RightCtrl"/>
+   <assigment action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}" key="F3"/>
+   <assigment action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}" key="Backspace"/>
+   <assigment action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}" key="LeftAlt"/>
+   <assigment action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}" key="Lang1"/>
+   <assigment action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}" key="G"/>
+   <assigment action="{7dfd5f54-efb8-4aed-bade-01a2076c6df0}" key="5"/>
+   <assigment action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}" key="CapsLock"/>
+   <assigment action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}" key="GraveAccentAndTilde"/>
+   <assigment action="{4a9f32a7-28e1-4987-9b09-31f1940d01a3}" key="BracketRight"/>
   </assigments>
   <fgLightAssignments>
    <fgLightAssignment fgLightAssignmentKey="Brightness" fgLightAssignmentValue="{3777801e-5b75-409d-9a82-fe2092a7299c}">
@@ -172,9 +173,7 @@
   </fgBasicLightAssignments>
   <lightBackgrounds>
    <groupBgLights/>
-   <keyBgLights>
-    <lightBackground key="Escape" color="#ff0000"/>
-   </keyBgLights>
+   <keyBgLights/>
   </lightBackgrounds>
   <basicLightBackgrounds>
    <groupBgLights/>
@@ -193,113 +192,9 @@
    </groupData>
   </groupsData>
   <basicLightingsParameters>
-   <parameters basicLightingEffect="7">
-    <speed>0</speed>
-    <color>2</color>
-    <direction>0</direction>
-    <duration>0</duration>
-    <selectedColor>#ff0000</selectedColor>
-    <alternatingColors>
-     <color order="1">#ff0000</color>
-     <color order="2">#0000ff</color>
-    </alternatingColors>
-    <eqaliserPattern>1</eqaliserPattern>
-    <frequencyVisualizerAnimation>1</frequencyVisualizerAnimation>
-   </parameters>
-   <parameters basicLightingEffect="6">
-    <speed>0</speed>
+   <parameters basicLightingEffect="0">
+    <speed>2</speed>
     <color>0</color>
-    <direction>0</direction>
-    <duration>0</duration>
-    <selectedColor>#ff0000</selectedColor>
-    <alternatingColors>
-     <color order="1">#ff0000</color>
-     <color order="2">#0000ff</color>
-    </alternatingColors>
-    <eqaliserPattern>1</eqaliserPattern>
-    <frequencyVisualizerAnimation>1</frequencyVisualizerAnimation>
-   </parameters>
-   <parameters basicLightingEffect="23">
-    <speed>0</speed>
-    <color>3</color>
-    <direction>3</direction>
-    <duration>0</duration>
-    <selectedColor>#ff0000</selectedColor>
-    <alternatingColors>
-     <color order="1">#51ff00</color>
-     <color order="2">#ff3300</color>
-    </alternatingColors>
-    <eqaliserPattern>1</eqaliserPattern>
-    <frequencyVisualizerAnimation>1</frequencyVisualizerAnimation>
-   </parameters>
-   <parameters basicLightingEffect="5">
-    <speed>2</speed>
-    <color>1</color>
-    <direction>0</direction>
-    <duration>0</duration>
-    <selectedColor>#ff0000</selectedColor>
-    <alternatingColors>
-     <color order="1">#ff0000</color>
-     <color order="2">#0000ff</color>
-    </alternatingColors>
-    <eqaliserPattern>1</eqaliserPattern>
-    <frequencyVisualizerAnimation>1</frequencyVisualizerAnimation>
-   </parameters>
-   <parameters basicLightingEffect="22">
-    <speed>0</speed>
-    <color>3</color>
-    <direction>3</direction>
-    <duration>0</duration>
-    <selectedColor>#ff0000</selectedColor>
-    <alternatingColors>
-     <color order="1">#51ff00</color>
-     <color order="2">#ff3300</color>
-    </alternatingColors>
-    <eqaliserPattern>1</eqaliserPattern>
-    <frequencyVisualizerAnimation>1</frequencyVisualizerAnimation>
-   </parameters>
-   <parameters basicLightingEffect="4">
-    <speed>2</speed>
-    <color>1</color>
-    <direction>0</direction>
-    <duration>0</duration>
-    <selectedColor>#ff0000</selectedColor>
-    <alternatingColors>
-     <color order="1">#ff0000</color>
-     <color order="2">#0000ff</color>
-    </alternatingColors>
-    <eqaliserPattern>1</eqaliserPattern>
-    <frequencyVisualizerAnimation>1</frequencyVisualizerAnimation>
-   </parameters>
-   <parameters basicLightingEffect="21">
-    <speed>3</speed>
-    <color>0</color>
-    <direction>5</direction>
-    <duration>0</duration>
-    <selectedColor>#ff0000</selectedColor>
-    <alternatingColors>
-     <color order="1">#ff0000</color>
-     <color order="2">#0000ff</color>
-    </alternatingColors>
-    <eqaliserPattern>1</eqaliserPattern>
-    <frequencyVisualizerAnimation>1</frequencyVisualizerAnimation>
-   </parameters>
-   <parameters basicLightingEffect="3">
-    <speed>0</speed>
-    <color>1</color>
-    <direction>0</direction>
-    <duration>2</duration>
-    <selectedColor>#ff0000</selectedColor>
-    <alternatingColors>
-     <color order="1">#ff0000</color>
-     <color order="2">#0000ff</color>
-    </alternatingColors>
-    <eqaliserPattern>1</eqaliserPattern>
-    <frequencyVisualizerAnimation>1</frequencyVisualizerAnimation>
-   </parameters>
-   <parameters basicLightingEffect="2">
-    <speed>2</speed>
-    <color>1</color>
     <direction>3</direction>
     <duration>0</duration>
     <selectedColor>#ff0000</selectedColor>
@@ -323,9 +218,9 @@
     <eqaliserPattern>1</eqaliserPattern>
     <frequencyVisualizerAnimation>1</frequencyVisualizerAnimation>
    </parameters>
-   <parameters basicLightingEffect="0">
+   <parameters basicLightingEffect="2">
     <speed>2</speed>
-    <color>0</color>
+    <color>1</color>
     <direction>3</direction>
     <duration>0</duration>
     <selectedColor>#ff0000</selectedColor>
@@ -336,10 +231,23 @@
     <eqaliserPattern>1</eqaliserPattern>
     <frequencyVisualizerAnimation>1</frequencyVisualizerAnimation>
    </parameters>
-   <parameters basicLightingEffect="11">
+   <parameters basicLightingEffect="3">
+    <speed>0</speed>
+    <color>1</color>
+    <direction>0</direction>
+    <duration>2</duration>
+    <selectedColor>#ff0000</selectedColor>
+    <alternatingColors>
+     <color order="1">#ff0000</color>
+     <color order="2">#0000ff</color>
+    </alternatingColors>
+    <eqaliserPattern>1</eqaliserPattern>
+    <frequencyVisualizerAnimation>1</frequencyVisualizerAnimation>
+   </parameters>
+   <parameters basicLightingEffect="4">
     <speed>2</speed>
-    <color>0</color>
-    <direction>2</direction>
+    <color>1</color>
+    <direction>0</direction>
     <duration>0</duration>
     <selectedColor>#ff0000</selectedColor>
     <alternatingColors>
@@ -349,9 +257,87 @@
     <eqaliserPattern>1</eqaliserPattern>
     <frequencyVisualizerAnimation>1</frequencyVisualizerAnimation>
    </parameters>
-   <parameters basicLightingEffect="10">
+   <parameters basicLightingEffect="5">
     <speed>2</speed>
     <color>1</color>
+    <direction>0</direction>
+    <duration>0</duration>
+    <selectedColor>#ff0000</selectedColor>
+    <alternatingColors>
+     <color order="1">#ff0000</color>
+     <color order="2">#0000ff</color>
+    </alternatingColors>
+    <eqaliserPattern>1</eqaliserPattern>
+    <frequencyVisualizerAnimation>1</frequencyVisualizerAnimation>
+   </parameters>
+   <parameters basicLightingEffect="6">
+    <speed>0</speed>
+    <color>0</color>
+    <direction>0</direction>
+    <duration>0</duration>
+    <selectedColor>#ff0000</selectedColor>
+    <alternatingColors>
+     <color order="1">#ff0000</color>
+     <color order="2">#0000ff</color>
+    </alternatingColors>
+    <eqaliserPattern>1</eqaliserPattern>
+    <frequencyVisualizerAnimation>1</frequencyVisualizerAnimation>
+   </parameters>
+   <parameters basicLightingEffect="21">
+    <speed>3</speed>
+    <color>0</color>
+    <direction>5</direction>
+    <duration>0</duration>
+    <selectedColor>#ff0000</selectedColor>
+    <alternatingColors>
+     <color order="1">#ff0000</color>
+     <color order="2">#0000ff</color>
+    </alternatingColors>
+    <eqaliserPattern>1</eqaliserPattern>
+    <frequencyVisualizerAnimation>1</frequencyVisualizerAnimation>
+   </parameters>
+   <parameters basicLightingEffect="7">
+    <speed>0</speed>
+    <color>2</color>
+    <direction>0</direction>
+    <duration>0</duration>
+    <selectedColor>#ff0000</selectedColor>
+    <alternatingColors>
+     <color order="1">#ff0000</color>
+     <color order="2">#0000ff</color>
+    </alternatingColors>
+    <eqaliserPattern>1</eqaliserPattern>
+    <frequencyVisualizerAnimation>1</frequencyVisualizerAnimation>
+   </parameters>
+   <parameters basicLightingEffect="22">
+    <speed>0</speed>
+    <color>3</color>
+    <direction>3</direction>
+    <duration>0</duration>
+    <selectedColor>#ff0000</selectedColor>
+    <alternatingColors>
+     <color order="1">#51ff00</color>
+     <color order="2">#ff3300</color>
+    </alternatingColors>
+    <eqaliserPattern>1</eqaliserPattern>
+    <frequencyVisualizerAnimation>1</frequencyVisualizerAnimation>
+   </parameters>
+   <parameters basicLightingEffect="23">
+    <speed>0</speed>
+    <color>3</color>
+    <direction>3</direction>
+    <duration>0</duration>
+    <selectedColor>#ff0000</selectedColor>
+    <alternatingColors>
+     <color order="1">#51ff00</color>
+     <color order="2">#ff3300</color>
+    </alternatingColors>
+    <eqaliserPattern>1</eqaliserPattern>
+    <frequencyVisualizerAnimation>1</frequencyVisualizerAnimation>
+   </parameters>
+   <parameters basicLightingEffect="8">
+    <speed>2</speed>
+    <color>0</color>
     <direction>0</direction>
     <duration>0</duration>
     <selectedColor>#ff0000</selectedColor>
@@ -375,10 +361,23 @@
     <eqaliserPattern>1</eqaliserPattern>
     <frequencyVisualizerAnimation>1</frequencyVisualizerAnimation>
    </parameters>
-   <parameters basicLightingEffect="8">
+   <parameters basicLightingEffect="10">
+    <speed>2</speed>
+    <color>1</color>
+    <direction>0</direction>
+    <duration>0</duration>
+    <selectedColor>#ff0000</selectedColor>
+    <alternatingColors>
+     <color order="1">#ff0000</color>
+     <color order="2">#0000ff</color>
+    </alternatingColors>
+    <eqaliserPattern>1</eqaliserPattern>
+    <frequencyVisualizerAnimation>1</frequencyVisualizerAnimation>
+   </parameters>
+   <parameters basicLightingEffect="11">
     <speed>2</speed>
     <color>0</color>
-    <direction>0</direction>
+    <direction>2</direction>
     <duration>0</duration>
     <selectedColor>#ff0000</selectedColor>
     <alternatingColors>
@@ -392,18 +391,44 @@
   <currentLightingEffect>6</currentLightingEffect>
   <isInAdvancedLightingMode>1</isInAdvancedLightingMode>
   <lighting_zones>
-   <lighting_zone name="All" type="0">
+   <lighting_zone type="0" name="All">
     <currentLightingEffect>6</currentLightingEffect>
     <basicLightingsParameters>
-     <parameters basicLightingEffect="23">
-      <speed>0</speed>
-      <color>3</color>
+     <parameters basicLightingEffect="0">
+      <speed>2</speed>
+      <color>0</color>
       <direction>3</direction>
       <duration>0</duration>
       <selectedColor>#ff0000</selectedColor>
       <alternatingColors>
-       <color order="1">#51ff00</color>
-       <color order="2">#ff3300</color>
+       <color order="1">#ff0000</color>
+       <color order="2">#0000ff</color>
+      </alternatingColors>
+      <eqaliserPattern>1</eqaliserPattern>
+      <frequencyVisualizerAnimation>1</frequencyVisualizerAnimation>
+     </parameters>
+     <parameters basicLightingEffect="2">
+      <speed>2</speed>
+      <color>1</color>
+      <direction>3</direction>
+      <duration>0</duration>
+      <selectedColor>#ff0000</selectedColor>
+      <alternatingColors>
+       <color order="1">#ff0000</color>
+       <color order="2">#0000ff</color>
+      </alternatingColors>
+      <eqaliserPattern>1</eqaliserPattern>
+      <frequencyVisualizerAnimation>1</frequencyVisualizerAnimation>
+     </parameters>
+     <parameters basicLightingEffect="3">
+      <speed>0</speed>
+      <color>1</color>
+      <direction>0</direction>
+      <duration>2</duration>
+      <selectedColor>#ff0000</selectedColor>
+      <alternatingColors>
+       <color order="1">#ff0000</color>
+       <color order="2">#0000ff</color>
       </alternatingColors>
       <eqaliserPattern>1</eqaliserPattern>
       <frequencyVisualizerAnimation>1</frequencyVisualizerAnimation>
@@ -434,41 +459,15 @@
       <eqaliserPattern>1</eqaliserPattern>
       <frequencyVisualizerAnimation>1</frequencyVisualizerAnimation>
      </parameters>
-     <parameters basicLightingEffect="3">
+     <parameters basicLightingEffect="23">
       <speed>0</speed>
-      <color>1</color>
-      <direction>0</direction>
-      <duration>2</duration>
-      <selectedColor>#ff0000</selectedColor>
-      <alternatingColors>
-       <color order="1">#ff0000</color>
-       <color order="2">#0000ff</color>
-      </alternatingColors>
-      <eqaliserPattern>1</eqaliserPattern>
-      <frequencyVisualizerAnimation>1</frequencyVisualizerAnimation>
-     </parameters>
-     <parameters basicLightingEffect="2">
-      <speed>2</speed>
-      <color>1</color>
+      <color>3</color>
       <direction>3</direction>
       <duration>0</duration>
       <selectedColor>#ff0000</selectedColor>
       <alternatingColors>
-       <color order="1">#ff0000</color>
-       <color order="2">#0000ff</color>
-      </alternatingColors>
-      <eqaliserPattern>1</eqaliserPattern>
-      <frequencyVisualizerAnimation>1</frequencyVisualizerAnimation>
-     </parameters>
-     <parameters basicLightingEffect="0">
-      <speed>2</speed>
-      <color>0</color>
-      <direction>3</direction>
-      <duration>0</duration>
-      <selectedColor>#ff0000</selectedColor>
-      <alternatingColors>
-       <color order="1">#ff0000</color>
-       <color order="2">#0000ff</color>
+       <color order="1">#51ff00</color>
+       <color order="2">#ff3300</color>
       </alternatingColors>
       <eqaliserPattern>1</eqaliserPattern>
       <frequencyVisualizerAnimation>1</frequencyVisualizerAnimation>
@@ -491,7 +490,7 @@
   </lighting_zones>
  </mode>
  <Lightings>
-  <Lighting version="3" Type="Gradient">
+  <Lighting Type="Gradient" version="3">
    <Id>{6f0c1312-525f-4a45-9d3f-d06f9bdc0f75}</Id>
    <Name>SkyR1</Name>
    <Note></Note>
@@ -501,172 +500,37 @@
    <IsPredefined>false</IsPredefined>
    <Brightness>10</Brightness>
    <ColorTransitionList version="1">
-    <Transition TimeMark="0" Color="fd000c" Alpha="255"/>
-    <Transition TimeMark="0.05" Color="ff007c" Alpha="255"/>
-    <Transition TimeMark="0.1" Color="ff00dc" Alpha="255"/>
-    <Transition TimeMark="0.15" Color="f600ff" Alpha="255"/>
-    <Transition TimeMark="0.2" Color="b300ff" Alpha="255"/>
-    <Transition TimeMark="0.25" Color="5e00ff" Alpha="255"/>
-    <Transition TimeMark="0.3" Color="1400ff" Alpha="255"/>
-    <Transition TimeMark="0.35" Color="20ff" Alpha="255"/>
-    <Transition TimeMark="0.4" Color="79ff" Alpha="255"/>
-    <Transition TimeMark="0.45" Color="c0ff" Alpha="255"/>
-    <Transition TimeMark="0.5" Color="fefb" Alpha="255"/>
-    <Transition TimeMark="0.55" Color="ffbf" Alpha="255"/>
-    <Transition TimeMark="0.6" Color="ff6a" Alpha="255"/>
-    <Transition TimeMark="0.65" Color="ff1c" Alpha="255"/>
-    <Transition TimeMark="0.7" Color="17ff00" Alpha="255"/>
-    <Transition TimeMark="0.75" Color="64ff00" Alpha="255"/>
-    <Transition TimeMark="0.8" Color="beff00" Alpha="255"/>
-    <Transition TimeMark="0.85" Color="fcfe00" Alpha="255"/>
-    <Transition TimeMark="0.9" Color="ffbe00" Alpha="255"/>
-    <Transition TimeMark="0.95" Color="ff7500" Alpha="255"/>
-    <Transition TimeMark="1" Color="ff1c00" Alpha="255"/>
+    <Transition Alpha="255" TimeMark="0" Color="fd000c"/>
+    <Transition Alpha="255" TimeMark="0.05" Color="ff007c"/>
+    <Transition Alpha="255" TimeMark="0.1" Color="ff00dc"/>
+    <Transition Alpha="255" TimeMark="0.15" Color="f600ff"/>
+    <Transition Alpha="255" TimeMark="0.2" Color="b300ff"/>
+    <Transition Alpha="255" TimeMark="0.25" Color="5e00ff"/>
+    <Transition Alpha="255" TimeMark="0.3" Color="1400ff"/>
+    <Transition Alpha="255" TimeMark="0.35" Color="20ff"/>
+    <Transition Alpha="255" TimeMark="0.4" Color="79ff"/>
+    <Transition Alpha="255" TimeMark="0.45" Color="c0ff"/>
+    <Transition Alpha="255" TimeMark="0.5" Color="fefb"/>
+    <Transition Alpha="255" TimeMark="0.55" Color="ffbf"/>
+    <Transition Alpha="255" TimeMark="0.6" Color="ff6a"/>
+    <Transition Alpha="255" TimeMark="0.65" Color="ff1c"/>
+    <Transition Alpha="255" TimeMark="0.7" Color="17ff00"/>
+    <Transition Alpha="255" TimeMark="0.75" Color="64ff00"/>
+    <Transition Alpha="255" TimeMark="0.8" Color="beff00"/>
+    <Transition Alpha="255" TimeMark="0.85" Color="fcfe00"/>
+    <Transition Alpha="255" TimeMark="0.9" Color="ffbe00"/>
+    <Transition Alpha="255" TimeMark="0.95" Color="ff7500"/>
+    <Transition Alpha="255" TimeMark="1" Color="ff1c00"/>
    </ColorTransitionList>
   </Lighting>
  </Lightings>
  <Actions>
-  <Action version="7" Type="modeSwitch">
-   <Id>{4f00e8e0-9a7e-48e5-9658-96102346ec68}</Id>
-   <Name>Mode switching (51)</Name>
+  <Action Type="modeSwitch" version="7">
+   <Id>{0525102d-30b4-441e-87a7-b36ea95d4ac5}</Id>
+   <Name>Mode switching (31)</Name>
    <Note></Note>
    <Date>2017-09-23</Date>
-   <BindCounter>1</BindCounter>
-   <Visible>0</Visible>
-   <Predefined>0</Predefined>
-   <ExecutionHints>
-    <ExecEvent>press</ExecEvent>
-    <TerminateWhenStartedAgain>false</TerminateWhenStartedAgain>
-    <RestartWhenStartedAgain>false</RestartWhenStartedAgain>
-   </ExecutionHints>
-   <RepeatOptions version="1">
-    <Mode>0</Mode>
-    <DelayMode>0</DelayMode>
-    <AmountOfRepeats>1</AmountOfRepeats>
-    <Delay>0</Delay>
-    <RandomDelayFrom>0</RandomDelayFrom>
-    <RandomDelayTo>0</RandomDelayTo>
-   </RepeatOptions>
-   <ActionLighting>{00000000-0000-0000-0000-000000000000}</ActionLighting>
-   <SwitchingType>1</SwitchingType>
-   <DirectModeId>{feb698e5-bdc2-4aa5-81ac-3d8a87d851d1}</DirectModeId>
-   <OptionSelected>0</OptionSelected>
-   <MKeyName></MKeyName>
-  </Action>
-  <Action version="7" Type="modeSwitch">
-   <Id>{da6c5f0f-214b-44da-b49e-e008c170d17b}</Id>
-   <Name>Mode switching (54)</Name>
-   <Note></Note>
-   <Date>2017-09-25</Date>
-   <BindCounter>1</BindCounter>
-   <Visible>0</Visible>
-   <Predefined>0</Predefined>
-   <ExecutionHints>
-    <ExecEvent>press</ExecEvent>
-    <TerminateWhenStartedAgain>false</TerminateWhenStartedAgain>
-    <RestartWhenStartedAgain>false</RestartWhenStartedAgain>
-   </ExecutionHints>
-   <RepeatOptions version="1">
-    <Mode>0</Mode>
-    <DelayMode>0</DelayMode>
-    <AmountOfRepeats>1</AmountOfRepeats>
-    <Delay>0</Delay>
-    <RandomDelayFrom>0</RandomDelayFrom>
-    <RandomDelayTo>0</RandomDelayTo>
-   </RepeatOptions>
-   <ActionLighting>{00000000-0000-0000-0000-000000000000}</ActionLighting>
-   <SwitchingType>1</SwitchingType>
-   <DirectModeId>{77057a83-1936-4d87-9b6f-13fd35d86cd9}</DirectModeId>
-   <OptionSelected>0</OptionSelected>
-   <MKeyName></MKeyName>
-  </Action>
-  <Action version="7" Type="modeSwitch">
-   <Id>{570a9aad-5e6c-4790-99f6-0ea0da8e8d35}</Id>
-   <Name>Mode switching (45)</Name>
-   <Note></Note>
-   <Date>2017-09-25</Date>
-   <BindCounter>1</BindCounter>
-   <Visible>0</Visible>
-   <Predefined>0</Predefined>
-   <ExecutionHints>
-    <ExecEvent>press</ExecEvent>
-    <TerminateWhenStartedAgain>false</TerminateWhenStartedAgain>
-    <RestartWhenStartedAgain>false</RestartWhenStartedAgain>
-   </ExecutionHints>
-   <RepeatOptions version="1">
-    <Mode>0</Mode>
-    <DelayMode>0</DelayMode>
-    <AmountOfRepeats>1</AmountOfRepeats>
-    <Delay>0</Delay>
-    <RandomDelayFrom>0</RandomDelayFrom>
-    <RandomDelayTo>0</RandomDelayTo>
-   </RepeatOptions>
-   <ActionLighting>{00000000-0000-0000-0000-000000000000}</ActionLighting>
-   <SwitchingType>1</SwitchingType>
-   <DirectModeId>{0995fb06-bf57-49e7-a4e0-4a1a4ea9e4e0}</DirectModeId>
-   <OptionSelected>0</OptionSelected>
-   <MKeyName></MKeyName>
-  </Action>
-  <Action version="7" Type="modeSwitch">
-   <Id>{30fa4b2f-2c87-4c24-918f-42bd368cf14a}</Id>
-   <Name>Mode switching (49)</Name>
-   <Note></Note>
-   <Date>2017-09-23</Date>
-   <BindCounter>1</BindCounter>
-   <Visible>0</Visible>
-   <Predefined>0</Predefined>
-   <ExecutionHints>
-    <ExecEvent>press</ExecEvent>
-    <TerminateWhenStartedAgain>false</TerminateWhenStartedAgain>
-    <RestartWhenStartedAgain>false</RestartWhenStartedAgain>
-   </ExecutionHints>
-   <RepeatOptions version="1">
-    <Mode>0</Mode>
-    <DelayMode>0</DelayMode>
-    <AmountOfRepeats>1</AmountOfRepeats>
-    <Delay>0</Delay>
-    <RandomDelayFrom>0</RandomDelayFrom>
-    <RandomDelayTo>0</RandomDelayTo>
-   </RepeatOptions>
-   <ActionLighting>{00000000-0000-0000-0000-000000000000}</ActionLighting>
-   <SwitchingType>1</SwitchingType>
-   <DirectModeId>{038ef2e0-77fb-4d1c-bcb8-770aa0ff5b0d}</DirectModeId>
-   <OptionSelected>0</OptionSelected>
-   <MKeyName></MKeyName>
-  </Action>
-  <Action version="7" Type="modeSwitch">
-   <Id>{72c36603-cfde-4005-a45f-c3220a79525b}</Id>
-   <Name>Mode switching (40)</Name>
-   <Note></Note>
-   <Date>2017-09-21</Date>
-   <BindCounter>12</BindCounter>
-   <Visible>0</Visible>
-   <Predefined>0</Predefined>
-   <ExecutionHints>
-    <ExecEvent>press</ExecEvent>
-    <TerminateWhenStartedAgain>false</TerminateWhenStartedAgain>
-    <RestartWhenStartedAgain>false</RestartWhenStartedAgain>
-   </ExecutionHints>
-   <RepeatOptions version="1">
-    <Mode>1</Mode>
-    <DelayMode>0</DelayMode>
-    <AmountOfRepeats>1</AmountOfRepeats>
-    <Delay>0</Delay>
-    <RandomDelayFrom>0</RandomDelayFrom>
-    <RandomDelayTo>0</RandomDelayTo>
-   </RepeatOptions>
-   <ActionLighting>{00000000-0000-0000-0000-000000000000}</ActionLighting>
-   <SwitchingType>1</SwitchingType>
-   <DirectModeId>{ce04bffc-f4a5-4e9b-8737-917e116b8ec0}</DirectModeId>
-   <OptionSelected>1</OptionSelected>
-   <MKeyName></MKeyName>
-  </Action>
-  <Action version="7" Type="modeSwitch">
-   <Id>{81e35711-8f98-4637-b1d7-453f27cc453d}</Id>
-   <Name>Mode switching (14)</Name>
-   <Note></Note>
-   <Date>2017-09-25</Date>
-   <BindCounter>12</BindCounter>
+   <BindCounter>0</BindCounter>
    <Visible>0</Visible>
    <Predefined>0</Predefined>
    <ExecutionHints>
@@ -688,39 +552,12 @@
    <OptionSelected>1</OptionSelected>
    <MKeyName></MKeyName>
   </Action>
-  <Action version="7" Type="modeSwitch">
-   <Id>{7d6626fa-d84d-4ccd-a340-1b85999c08bf}</Id>
-   <Name>Mode switching (30)</Name>
+  <Action Type="modeSwitch" version="7">
+   <Id>{9f9f9c67-355f-42d8-a9d1-ff5d051d6312}</Id>
+   <Name>Mode switching (50)</Name>
    <Note></Note>
-   <Date>2017-09-25</Date>
-   <BindCounter>12</BindCounter>
-   <Visible>0</Visible>
-   <Predefined>0</Predefined>
-   <ExecutionHints>
-    <ExecEvent>press</ExecEvent>
-    <TerminateWhenStartedAgain>false</TerminateWhenStartedAgain>
-    <RestartWhenStartedAgain>false</RestartWhenStartedAgain>
-   </ExecutionHints>
-   <RepeatOptions version="1">
-    <Mode>0</Mode>
-    <DelayMode>0</DelayMode>
-    <AmountOfRepeats>1</AmountOfRepeats>
-    <Delay>0</Delay>
-    <RandomDelayFrom>0</RandomDelayFrom>
-    <RandomDelayTo>0</RandomDelayTo>
-   </RepeatOptions>
-   <ActionLighting>{00000000-0000-0000-0000-000000000000}</ActionLighting>
-   <SwitchingType>3</SwitchingType>
-   <DirectModeId>{00000000-0000-0000-0000-000000000000}</DirectModeId>
-   <OptionSelected>1</OptionSelected>
-   <MKeyName></MKeyName>
-  </Action>
-  <Action version="7" Type="modeSwitch">
-   <Id>{f0cc3cc5-ca2b-4ca7-abd0-c4a1e3cc8cb5}</Id>
-   <Name>Mode switching (53)</Name>
-   <Note></Note>
-   <Date>2017-09-23</Date>
-   <BindCounter>1</BindCounter>
+   <Date>2017-09-29</Date>
+   <BindCounter>0</BindCounter>
    <Visible>0</Visible>
    <Predefined>0</Predefined>
    <ExecutionHints>
@@ -742,39 +579,12 @@
    <OptionSelected>0</OptionSelected>
    <MKeyName></MKeyName>
   </Action>
-  <Action version="7" Type="modeSwitch">
-   <Id>{0525102d-30b4-441e-87a7-b36ea95d4ac5}</Id>
-   <Name>Mode switching (31)</Name>
+  <Action Type="modeSwitch" version="7">
+   <Id>{570a9aad-5e6c-4790-99f6-0ea0da8e8d35}</Id>
+   <Name>Mode switching (45)</Name>
    <Note></Note>
-   <Date>2017-09-23</Date>
-   <BindCounter>1</BindCounter>
-   <Visible>0</Visible>
-   <Predefined>0</Predefined>
-   <ExecutionHints>
-    <ExecEvent>press</ExecEvent>
-    <TerminateWhenStartedAgain>false</TerminateWhenStartedAgain>
-    <RestartWhenStartedAgain>false</RestartWhenStartedAgain>
-   </ExecutionHints>
-   <RepeatOptions version="1">
-    <Mode>0</Mode>
-    <DelayMode>0</DelayMode>
-    <AmountOfRepeats>1</AmountOfRepeats>
-    <Delay>0</Delay>
-    <RandomDelayFrom>0</RandomDelayFrom>
-    <RandomDelayTo>0</RandomDelayTo>
-   </RepeatOptions>
-   <ActionLighting>{00000000-0000-0000-0000-000000000000}</ActionLighting>
-   <SwitchingType>2</SwitchingType>
-   <DirectModeId>{00000000-0000-0000-0000-000000000000}</DirectModeId>
-   <OptionSelected>1</OptionSelected>
-   <MKeyName></MKeyName>
-  </Action>
-  <Action version="7" Type="modeSwitch">
-   <Id>{d25f3a4a-db9c-492c-927a-49d3effd6d72}</Id>
-   <Name>Mode switching (50)</Name>
-   <Note></Note>
-   <Date>2017-09-23</Date>
-   <BindCounter>1</BindCounter>
+   <Date>2017-09-25</Date>
+   <BindCounter>0</BindCounter>
    <Visible>0</Visible>
    <Predefined>0</Predefined>
    <ExecutionHints>
@@ -796,12 +606,201 @@
    <OptionSelected>0</OptionSelected>
    <MKeyName></MKeyName>
   </Action>
-  <Action version="7" Type="modeSwitch">
-   <Id>{e17b8cc1-5819-478b-8129-e1cdf7d7b1fd}</Id>
-   <Name>Mode switching (52)</Name>
+  <Action Type="modeSwitch" version="7">
+   <Id>{7dfd5f54-efb8-4aed-bade-01a2076c6df0}</Id>
+   <Name>Mode switching (61)</Name>
+   <Note></Note>
+   <Date>2017-09-30</Date>
+   <BindCounter>1</BindCounter>
+   <Visible>0</Visible>
+   <Predefined>0</Predefined>
+   <ExecutionHints>
+    <ExecEvent>press</ExecEvent>
+    <TerminateWhenStartedAgain>false</TerminateWhenStartedAgain>
+    <RestartWhenStartedAgain>false</RestartWhenStartedAgain>
+   </ExecutionHints>
+   <RepeatOptions version="1">
+    <Mode>0</Mode>
+    <DelayMode>0</DelayMode>
+    <AmountOfRepeats>1</AmountOfRepeats>
+    <Delay>0</Delay>
+    <RandomDelayFrom>0</RandomDelayFrom>
+    <RandomDelayTo>0</RandomDelayTo>
+   </RepeatOptions>
+   <ActionLighting>{00000000-0000-0000-0000-000000000000}</ActionLighting>
+   <SwitchingType>1</SwitchingType>
+   <DirectModeId>{ce857cfb-05ea-4886-b942-1394d9411271}</DirectModeId>
+   <OptionSelected>0</OptionSelected>
+   <MKeyName></MKeyName>
+  </Action>
+  <Action Type="modeSwitch" version="7">
+   <Id>{4affd24a-ba12-4b0b-9317-f39e22774ed4}</Id>
+   <Name>Mode switching (44)</Name>
+   <Note></Note>
+   <Date>2017-09-25</Date>
+   <BindCounter>0</BindCounter>
+   <Visible>0</Visible>
+   <Predefined>0</Predefined>
+   <ExecutionHints>
+    <ExecEvent>press</ExecEvent>
+    <TerminateWhenStartedAgain>false</TerminateWhenStartedAgain>
+    <RestartWhenStartedAgain>false</RestartWhenStartedAgain>
+   </ExecutionHints>
+   <RepeatOptions version="1">
+    <Mode>0</Mode>
+    <DelayMode>0</DelayMode>
+    <AmountOfRepeats>1</AmountOfRepeats>
+    <Delay>0</Delay>
+    <RandomDelayFrom>0</RandomDelayFrom>
+    <RandomDelayTo>0</RandomDelayTo>
+   </RepeatOptions>
+   <ActionLighting>{00000000-0000-0000-0000-000000000000}</ActionLighting>
+   <SwitchingType>1</SwitchingType>
+   <DirectModeId>{77057a83-1936-4d87-9b6f-13fd35d86cd9}</DirectModeId>
+   <OptionSelected>0</OptionSelected>
+   <MKeyName></MKeyName>
+  </Action>
+  <Action Type="modeSwitch" version="7">
+   <Id>{30fa4b2f-2c87-4c24-918f-42bd368cf14a}</Id>
+   <Name>Mode switching (49)</Name>
    <Note></Note>
    <Date>2017-09-23</Date>
-   <BindCounter>1</BindCounter>
+   <BindCounter>0</BindCounter>
+   <Visible>0</Visible>
+   <Predefined>0</Predefined>
+   <ExecutionHints>
+    <ExecEvent>press</ExecEvent>
+    <TerminateWhenStartedAgain>false</TerminateWhenStartedAgain>
+    <RestartWhenStartedAgain>false</RestartWhenStartedAgain>
+   </ExecutionHints>
+   <RepeatOptions version="1">
+    <Mode>0</Mode>
+    <DelayMode>0</DelayMode>
+    <AmountOfRepeats>1</AmountOfRepeats>
+    <Delay>0</Delay>
+    <RandomDelayFrom>0</RandomDelayFrom>
+    <RandomDelayTo>0</RandomDelayTo>
+   </RepeatOptions>
+   <ActionLighting>{00000000-0000-0000-0000-000000000000}</ActionLighting>
+   <SwitchingType>1</SwitchingType>
+   <DirectModeId>{038ef2e0-77fb-4d1c-bcb8-770aa0ff5b0d}</DirectModeId>
+   <OptionSelected>0</OptionSelected>
+   <MKeyName></MKeyName>
+  </Action>
+  <Action Type="modeSwitch" version="7">
+   <Id>{cdcb3dd3-5740-4be4-ad53-7510c10f2b40}</Id>
+   <Name>Mode switching (51)</Name>
+   <Note></Note>
+   <Date>2017-09-29</Date>
+   <BindCounter>0</BindCounter>
+   <Visible>0</Visible>
+   <Predefined>0</Predefined>
+   <ExecutionHints>
+    <ExecEvent>press</ExecEvent>
+    <TerminateWhenStartedAgain>false</TerminateWhenStartedAgain>
+    <RestartWhenStartedAgain>false</RestartWhenStartedAgain>
+   </ExecutionHints>
+   <RepeatOptions version="1">
+    <Mode>0</Mode>
+    <DelayMode>0</DelayMode>
+    <AmountOfRepeats>1</AmountOfRepeats>
+    <Delay>0</Delay>
+    <RandomDelayFrom>0</RandomDelayFrom>
+    <RandomDelayTo>0</RandomDelayTo>
+   </RepeatOptions>
+   <ActionLighting>{00000000-0000-0000-0000-000000000000}</ActionLighting>
+   <SwitchingType>1</SwitchingType>
+   <DirectModeId>{0995fb06-bf57-49e7-a4e0-4a1a4ea9e4e0}</DirectModeId>
+   <OptionSelected>0</OptionSelected>
+   <MKeyName></MKeyName>
+  </Action>
+  <Action Type="modeSwitch" version="7">
+   <Id>{c1287a8d-4bd5-403f-8aa4-03762a9d469e}</Id>
+   <Name>Mode switching (52)</Name>
+   <Note></Note>
+   <Date>2017-09-29</Date>
+   <BindCounter>0</BindCounter>
+   <Visible>0</Visible>
+   <Predefined>0</Predefined>
+   <ExecutionHints>
+    <ExecEvent>press</ExecEvent>
+    <TerminateWhenStartedAgain>false</TerminateWhenStartedAgain>
+    <RestartWhenStartedAgain>false</RestartWhenStartedAgain>
+   </ExecutionHints>
+   <RepeatOptions version="1">
+    <Mode>0</Mode>
+    <DelayMode>0</DelayMode>
+    <AmountOfRepeats>1</AmountOfRepeats>
+    <Delay>0</Delay>
+    <RandomDelayFrom>0</RandomDelayFrom>
+    <RandomDelayTo>0</RandomDelayTo>
+   </RepeatOptions>
+   <ActionLighting>{00000000-0000-0000-0000-000000000000}</ActionLighting>
+   <SwitchingType>1</SwitchingType>
+   <DirectModeId>{feb698e5-bdc2-4aa5-81ac-3d8a87d851d1}</DirectModeId>
+   <OptionSelected>0</OptionSelected>
+   <MKeyName></MKeyName>
+  </Action>
+  <Action Type="modeSwitch" version="7">
+   <Id>{7d6626fa-d84d-4ccd-a340-1b85999c08bf}</Id>
+   <Name>Mode switching (30)</Name>
+   <Note></Note>
+   <Date>2017-09-25</Date>
+   <BindCounter>13</BindCounter>
+   <Visible>0</Visible>
+   <Predefined>0</Predefined>
+   <ExecutionHints>
+    <ExecEvent>press</ExecEvent>
+    <TerminateWhenStartedAgain>false</TerminateWhenStartedAgain>
+    <RestartWhenStartedAgain>false</RestartWhenStartedAgain>
+   </ExecutionHints>
+   <RepeatOptions version="1">
+    <Mode>0</Mode>
+    <DelayMode>0</DelayMode>
+    <AmountOfRepeats>1</AmountOfRepeats>
+    <Delay>0</Delay>
+    <RandomDelayFrom>0</RandomDelayFrom>
+    <RandomDelayTo>0</RandomDelayTo>
+   </RepeatOptions>
+   <ActionLighting>{00000000-0000-0000-0000-000000000000}</ActionLighting>
+   <SwitchingType>3</SwitchingType>
+   <DirectModeId>{00000000-0000-0000-0000-000000000000}</DirectModeId>
+   <OptionSelected>1</OptionSelected>
+   <MKeyName></MKeyName>
+  </Action>
+  <Action Type="modeSwitch" version="7">
+   <Id>{81e35711-8f98-4637-b1d7-453f27cc453d}</Id>
+   <Name>Mode switching (14)</Name>
+   <Note></Note>
+   <Date>2017-09-25</Date>
+   <BindCounter>13</BindCounter>
+   <Visible>0</Visible>
+   <Predefined>0</Predefined>
+   <ExecutionHints>
+    <ExecEvent>press</ExecEvent>
+    <TerminateWhenStartedAgain>false</TerminateWhenStartedAgain>
+    <RestartWhenStartedAgain>false</RestartWhenStartedAgain>
+   </ExecutionHints>
+   <RepeatOptions version="1">
+    <Mode>0</Mode>
+    <DelayMode>0</DelayMode>
+    <AmountOfRepeats>1</AmountOfRepeats>
+    <Delay>0</Delay>
+    <RandomDelayFrom>0</RandomDelayFrom>
+    <RandomDelayTo>0</RandomDelayTo>
+   </RepeatOptions>
+   <ActionLighting>{00000000-0000-0000-0000-000000000000}</ActionLighting>
+   <SwitchingType>2</SwitchingType>
+   <DirectModeId>{00000000-0000-0000-0000-000000000000}</DirectModeId>
+   <OptionSelected>1</OptionSelected>
+   <MKeyName></MKeyName>
+  </Action>
+  <Action Type="modeSwitch" version="7">
+   <Id>{b2acb8b6-8f28-4064-809b-eab4e3819199}</Id>
+   <Name>Mode switching (54)</Name>
+   <Note></Note>
+   <Date>2017-09-29</Date>
+   <BindCounter>0</BindCounter>
    <Visible>0</Visible>
    <Predefined>0</Predefined>
    <ExecutionHints>
@@ -821,6 +820,33 @@
    <SwitchingType>1</SwitchingType>
    <DirectModeId>{f201920d-b120-4901-981c-21b472642f5d}</DirectModeId>
    <OptionSelected>0</OptionSelected>
+   <MKeyName></MKeyName>
+  </Action>
+  <Action Type="modeSwitch" version="7">
+   <Id>{72c36603-cfde-4005-a45f-c3220a79525b}</Id>
+   <Name>Mode switching (40)</Name>
+   <Note></Note>
+   <Date>2017-09-21</Date>
+   <BindCounter>15</BindCounter>
+   <Visible>0</Visible>
+   <Predefined>0</Predefined>
+   <ExecutionHints>
+    <ExecEvent>press</ExecEvent>
+    <TerminateWhenStartedAgain>false</TerminateWhenStartedAgain>
+    <RestartWhenStartedAgain>false</RestartWhenStartedAgain>
+   </ExecutionHints>
+   <RepeatOptions version="1">
+    <Mode>1</Mode>
+    <DelayMode>0</DelayMode>
+    <AmountOfRepeats>1</AmountOfRepeats>
+    <Delay>0</Delay>
+    <RandomDelayFrom>0</RandomDelayFrom>
+    <RandomDelayTo>0</RandomDelayTo>
+   </RepeatOptions>
+   <ActionLighting>{00000000-0000-0000-0000-000000000000}</ActionLighting>
+   <SwitchingType>1</SwitchingType>
+   <DirectModeId>{ce04bffc-f4a5-4e9b-8737-917e116b8ec0}</DirectModeId>
+   <OptionSelected>1</OptionSelected>
    <MKeyName></MKeyName>
   </Action>
  </Actions>
