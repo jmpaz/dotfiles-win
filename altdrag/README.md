@@ -1,1 +1,0 @@
-# [AltDrag](https://stefansundin.github.io/altdrag/)

@@ -1,1 +1,0 @@
-These are all included in the static profile, but are exported for archival and testing purposes

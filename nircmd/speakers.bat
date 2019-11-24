@@ -1,1 +1,0 @@
-C:\Users\Josh\Documents\Tools\nircmd\nircmd.exe setdefaultsounddevice "Speakers"
