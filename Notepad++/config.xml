@@ -21,18 +21,7 @@
         <Replace name="" />
         <Replace name="" />
     </FindHistory>
-    <History nbMaxFile="10" inSubMenu="no" customLength="-1">
-        <File filename="D:\Videos\Courses\Modern JavaScript\5. Object Literals\1. Objects at a Glance.srt" />
-        <File filename="C:\Program Files (x86)\VideoLAN\VLC\skins\skin.catalog" />
-        <File filename="C:\Users\Josh\Documents\Code\JavaScript30\readme.md" />
-        <File filename="C:\Users\Josh\Documents\GitHub\gsuma\.gitignore" />
-        <File filename="C:\Users\Josh\Downloads\alacritty.yml" />
-        <File filename="C:\Users\Josh\Documents\Code\Modern JS\.vscode\settings.json" />
-        <File filename="C:\Users\Josh\package.json" />
-        <File filename="C:\Users\Josh\.quokka\package.json" />
-        <File filename="C:\Users\Josh\.quokka\config.json" />
-        <File filename="C:\Users\Josh\AppData\Roaming\alacritty\alacritty.yml" />
-    </History>
+    <History nbMaxFile="0" inSubMenu="no" customLength="-1" />
     <GUIConfigs>
         <GUIConfig name="ToolBar" visible="yes">standard</GUIConfig>
         <GUIConfig name="StatusBar">show</GUIConfig>
@@ -40,7 +29,7 @@
         <GUIConfig name="ScintillaViewsSplitter">vertical</GUIConfig>
         <GUIConfig name="UserDefineDlg" position="undocked">hide</GUIConfig>
         <GUIConfig name="TabSetting" replaceBySpace="no" size="4" />
-        <GUIConfig name="AppPosition" x="709" y="265" width="1100" height="700" isMaximized="no" />
+        <GUIConfig name="AppPosition" x="601" y="288" width="1100" height="698" isMaximized="no" />
         <GUIConfig name="noUpdate" intervalDays="15" nextUpdateDate="20191201">no</GUIConfig>
         <GUIConfig name="Auto-detection">yes</GUIConfig>
         <GUIConfig name="CheckHistoryFiles">no</GUIConfig>
